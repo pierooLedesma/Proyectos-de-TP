@@ -12,9 +12,9 @@
 
 // Módulo que apertura los archivos para la lectura y la impresión
 void elaborarReporteSolicitado(const char *nombre_archivo_medicos_txt,
-                                                       const char *nombre_archivo_pacientes_txt,
-                                                       const char *nombre_archivo_citas_txt,
-                                                       const char *nombre_archivo_reporte_txt){
+                               const char *nombre_archivo_pacientes_txt,
+                               const char *nombre_archivo_citas_txt,
+                               const char *nombre_archivo_reporte_txt){
     /* Apertura del archivo "Medicos.txt" */
     ifstream archMedicos(nombre_archivo_medicos_txt, ios::in);
     if(not archMedicos.is_open()){
@@ -52,7 +52,7 @@ void elaborarReporteSolicitado(const char *nombre_archivo_medicos_txt,
 
 // Módulo que procesar el archivo de "Medicos.txt" e imprime el total recaudado por la clínica
 void procesarMedicos(ifstream &archMedicos,ifstream &archCitas,ifstream &archPacientes,
-                                        ofstream &archReporte){
+                     ofstream &archReporte){
     int codigo_del_medico;
     double tarifa,totalRecaudado=0.0;
     
@@ -84,7 +84,7 @@ void procesarMedicos(ifstream &archMedicos,ifstream &archCitas,ifstream &archPac
 
 // Módulo que procesa el archivo "Citas.txt"
 void procesarCitas(int codigo_del_medico,double tarifa,double &totalRecaudado,ifstream &archCitas,
-                               ifstream &archPacientes,ofstream &archReporte){
+                   ifstream &archPacientes,ofstream &archReporte){
     char c;
     int dni_paciente,dia,mes,anio,codMedico,hora_Inicio,minuto_Inicio,segundo_Inicio,hora_Fin,minuto_Fin,
          segundo_Fin;
@@ -105,8 +105,8 @@ void procesarCitas(int codigo_del_medico,double tarifa,double &totalRecaudado,if
             archCitas >> dia >> c >> mes >> c >> anio >> hora_Inicio >> c >> minuto_Inicio >> c;
             archCitas >> segundo_Inicio >> hora_Fin >> c >> minuto_Fin >> c >> segundo_Fin;
             procesarPaciente(dia,mes,anio,dni_paciente,hora_Inicio,minuto_Inicio,segundo_Inicio,hora_Fin,
-                                         minuto_Fin,segundo_Fin,tarifa,totalRecaudado,archPacientes,archReporte,
-                                         total_gasto_citas);
+                             minuto_Fin,segundo_Fin,tarifa,totalRecaudado,archPacientes,archReporte,
+                             total_gasto_citas);
         } else{
             while(archCitas.get() != '\n');   // Descartar línea
         }
@@ -124,8 +124,8 @@ void procesarCitas(int codigo_del_medico,double tarifa,double &totalRecaudado,if
 
 // Módulo que procesa el archivo "Pacientes.txt". Encuentra el DNI del paciente que se busca.
 void procesarPaciente(int dia,int mes,int anio,int dni_paciente,int hora_Inicio,int minuto_Inicio,int segundo_Inicio,
-                                        int hora_Fin,int minuto_Fin,int segundo_Fin,double tarifa,double &totalRecaudado,
-                                        ifstream &archPacientes,ofstream &archReporte,double &total_gasto_citas){
+                      int hora_Fin,int minuto_Fin,int segundo_Fin,double tarifa,double &totalRecaudado,
+                      ifstream &archPacientes,ofstream &archReporte,double &total_gasto_citas){
     int el_dni_del_paciente;
     
     archPacientes.clear(); // Limpiar banderas
@@ -138,8 +138,8 @@ void procesarPaciente(int dia,int mes,int anio,int dni_paciente,int hora_Inicio,
             // El DNI del pacienrte del archivo leído "Citas.txt" (dni_paciente) es igual
             // al DNI del paciente leído del archivo "Pacientes.txt" (el_dni_del_paciente).
             impresionDelPacienteConSuCitaMedica(dia,mes,anio,dni_paciente,hora_Inicio,minuto_Inicio,
-                                                                            segundo_Inicio,hora_Fin,minuto_Fin,segundo_Fin,tarifa,
-                                                                            totalRecaudado,archPacientes,archReporte,total_gasto_citas);
+                                                segundo_Inicio,hora_Fin,minuto_Fin,segundo_Fin,tarifa,
+                                                totalRecaudado,archPacientes,archReporte,total_gasto_citas);
             break;
         } else {
             while(archPacientes.get() != '\n');   // Descartar línea
@@ -157,15 +157,15 @@ void procesarPaciente(int dia,int mes,int anio,int dni_paciente,int hora_Inicio,
 // Imprime los datos del paciente de su respectiva cita. Se imprime el nombre del paciente en un módulo aparte y
 // se actualiza el "total de gastos de citas" como también el "total recaudado por la clínica".
 void impresionDelPacienteConSuCitaMedica(int dia,int mes,int anio,int dni_paciente,int hora_Inicio,
-                                                                            int minuto_Inicio,int segundo_Inicio,int hora_Fin,int minuto_Fin,
-                                                                            int segundo_Fin,double tarifa,double &totalRecaudado,
-                                                                            ifstream &archPacientes,ofstream &archReporte,
-                                                                            double &total_gasto_citas){
+                                         int minuto_Inicio,int segundo_Inicio,int hora_Fin,int minuto_Fin,
+                                         int segundo_Fin,double tarifa,double &totalRecaudado,
+                                         ifstream &archPacientes,ofstream &archReporte,
+                                         double &total_gasto_citas){
     int telefono;
     double duracion_del_tiempo_en_minutos,pago;
     
     duracion_del_tiempo_en_minutos = (hora_Fin*60 + minuto_Fin + (double)segundo_Fin/60) - 
-                                                              (hora_Inicio*60 + minuto_Inicio + (double)segundo_Inicio/60);
+                                      (hora_Inicio*60 + minuto_Inicio + (double)segundo_Inicio/60);
     pago = (duracion_del_tiempo_en_minutos/60)*tarifa;
     
     archReporte << setw(9) << ' ' << setfill('0') << setw(2) << dia << '/' << setw(2) << mes << '/' << setw(2) << anio;
@@ -191,7 +191,7 @@ void impresionDelPacienteConSuCitaMedica(int dia,int mes,int anio,int dni_pacien
 
 // Módulo que imprime el nombre del paciente o de un médico
 void imprimirNombre(ifstream &archLectura,bool esPaciente,int longitud_total_entre_nombre_y_espacios,
-                                    char caracter_de_finalizacion,ofstream &archReporte){
+                    char caracter_de_finalizacion,ofstream &archReporte){
     char c;
     bool esMayuscula = true;
     int cantidad_de_caracteres_del_nombre = 0;
