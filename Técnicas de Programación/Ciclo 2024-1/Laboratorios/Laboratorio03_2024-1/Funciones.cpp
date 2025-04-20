@@ -179,7 +179,7 @@ void procesar_medico(double porcentaje_descuento_paciente,int cod_medico_citas,
         double monto_pagado_por_los_medicamentos,ifstream &input_medicos,ofstream &output,
         int tiempo_final,int tiempo_inicial,double &pago){
     int codigo;
-    input_medicos.clear(); // Liberar el buffer del archivo "Medicos.txt" y limpia las banderas levantas
+    input_medicos.clear(); // Liberar el buffer del archivo "Medicos.txt" y limpia las banderas levantadas
     input_medicos.seekg(0,ios::beg); // Desplazamiento al inicio del archivo "Medicos.txt"
     while(true){
         input_medicos >> codigo;
