@@ -188,7 +188,7 @@ void procesar_medico(double porcentaje_descuento_paciente,int cod_medico_citas,
             // El código del médico leído (codigo) del archivo "Medicos.txt" es diferente al 
             // código del médico leído (cod_medico_citas) en el archivo "CitasMedicas.txt".
             while(input_medicos.get() != '\n'); // Descartar línea
-            continue; // Regresa a la primera líndea de este bucle
+            continue; // Regresa a la primera línea de este bucle
         }
         leer_nombre_y_especialidad_e_imprimir_datos_del_medico(pago,tiempo_inicial,tiempo_final,
                 porcentaje_descuento_paciente,monto_pagado_por_los_medicamentos,input_medicos,output);
