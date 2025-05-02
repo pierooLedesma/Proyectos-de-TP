@@ -607,7 +607,7 @@ void imprimir_compania_con_mayor_y_menor_pago_por_infracciones(int dni_mayor_pag
     output << "//COMPANIA CON MAYOR PAGO POR INFRACCIONES:  //" << endl;
     output << left << setw(TAM_REPORTE / (N_COLUMNAS + 8) + 2);
     output << "//DNI:" << right;
-    output << dni_menor_pago << setw(TAM_REPORTE / (N_COLUMNAS + 5) - 1);
+    output << dni_mayor_pago << setw(TAM_REPORTE / (N_COLUMNAS + 5) - 1);
     output << ' ' << "//" << endl;
     output << left << setw(TAM_REPORTE / (N_COLUMNAS + 5) - 1);
     output << "//TOTAL PAGADO:" << right;
