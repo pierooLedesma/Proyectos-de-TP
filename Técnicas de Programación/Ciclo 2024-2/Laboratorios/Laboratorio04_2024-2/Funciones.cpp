@@ -62,7 +62,7 @@ void imprimir_titulo(ofstream &output){
 
 
 
-// Módulo que imprime los encabezdos del reporte (de repartidores y de platos solicitados)
+// Módulo que imprime los encabezados del reporte (de repartidores y de platos solicitados)
 void imprimir_encabezados(bool esRepartidor,ofstream &output){
     if(esRepartidor){
         // Imprimir encabezado de los repartidores
@@ -199,7 +199,8 @@ void imprimir_un_pedido_del_cliente(int n_platos_pedidos,int cod_plato_leido,int
 
 
 // Módulo que busca en el arreglo de "códigos de platos" el código de un plato leído
-// y, en caso que se encuentre, retornará el índice del arreglo de los  "códigos de platos".
+// y, en caso que se encuentre, retornará el índice del código encontrado en el
+// arreglo de los "códigos de platos".
 int buscar_precio_del_plato(int cod_plato_leido,int *arr_cod_plato,int cant_platos){
     for(int indice = 0; indice < cant_platos; indice++){
         if(cod_plato_leido == arr_cod_plato[indice]) return indice;
@@ -299,7 +300,7 @@ void impresion_de_totales_de_un_cliente(double total_a_pagar,double pago_al_repa
 
 // Módulo que procesa el archivo "RepartosARealizar.txt". Imprime la información del reparto
 // si el código del distrito leído con el código del distrito del cliente y el vehículo del repartidor
-// con el vehículo que desea el cliente que se lleve el pedido coiniciden.
+// con el vehículo que desea el cliente que se lleve el pedido coinciden.
 void procesar_repartos(char vehiculo,int cod_distrito,ifstream &input_repartos,
                        ofstream &output,int *arr_cod_plato,double *arr_precio_plato,
                        int cant_platos,int &n_clientes,
