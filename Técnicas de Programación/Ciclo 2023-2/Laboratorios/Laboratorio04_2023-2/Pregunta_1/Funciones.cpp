@@ -15,6 +15,7 @@ void aperturar_archivo_lectura(const char *nombre_archivo,ifstream &input){
     if(not input.is_open()){
         cout << "ERROR. El archivo " << nombre_archivo;
         cout << "no se pudo abrir." << endl;
+        exit(1);
     }
 }
 /*******************************************************************************************************************************/
@@ -32,6 +33,7 @@ void aperturar_archivo_escritura(const char *nombre_archivo,ofstream &output){
     if(not output.is_open()){
         cout << "ERROR. El archivo " << nombre_archivo;
         cout << "no se pudo abrir." << endl;
+        exit(1);
     }
 }
 /*******************************************************************************************************************************/
