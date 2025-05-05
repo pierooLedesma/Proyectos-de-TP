@@ -140,6 +140,7 @@ void imprimir_reporte(double area,double perimetro,int cantidad_de_lados,
                       int cant_vertices,const char *nombre_archivo){
     ofstream output;
     aperturar_archivo_escritura(nombre_archivo,output);
+    output << fixed << setprecision(2);
     imprimir_titulo(false,output);
     imprimir_encabezado(true,output);
     for(int indice = 0; indice < cant_vertices; indice++){
