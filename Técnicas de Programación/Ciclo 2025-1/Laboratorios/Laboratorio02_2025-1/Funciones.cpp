@@ -284,7 +284,7 @@ void leer_e_imprimir_representante_legal(int n_representantes,int dni,
 
 
 // Módulo que lee una descripción de infracción del archivo
-// "InfraccionesCometidas.txt" (la placa, la fecha de la infración
+// "InfraccionesCometidas.txt" (la placa, la fecha de la infracción
 // y el código de la infracción cometida).
 void leer_descripcion(char &tipo,int &num_1_placa,int &num_2_placa,int &fecha,
                       int &cod_infraccion,ifstream &input){
