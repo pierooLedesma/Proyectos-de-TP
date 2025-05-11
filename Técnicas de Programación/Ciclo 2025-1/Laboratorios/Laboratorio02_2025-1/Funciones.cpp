@@ -341,7 +341,7 @@ void buscar_e_imprimir_infraccion(int cod_infraccion,ifstream &input,
     double multa;
     bool imprimir_la_descripcion_de_la_infraccion = false;
     
-    input.clear();// Libera el buffer del archivo "InfraccionesDeTransito.txt" y limpiar las badneras levantadas
+    input.clear();// Libera el buffer del archivo "InfraccionesDeTransito.txt" y limpia las banderas levantadas
     input.seekg(0,ios::beg);// Devuelve el puntero al inicio del archivo "InfraccionesDeTransito.txt"
     
     while(true){
