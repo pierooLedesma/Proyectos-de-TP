@@ -598,7 +598,7 @@ void imprimir_total_recaudado_por_infracciones(int cant_total_faltas_leves,
 
 
 
-// Módulo que imprime la companía con mayor y menor pago por infracciones
+// Módulo que imprime la compañía con mayor y menor pago por infracciones
 void imprimir_compania_con_mayor_y_menor_pago_por_infracciones(int dni_mayor_pago,
         double total_mayor_pago,int dni_menor_pago,double total_menor_pago,
         ofstream &output){
