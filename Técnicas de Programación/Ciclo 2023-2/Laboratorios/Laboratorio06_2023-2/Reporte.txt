@@ -1,0 +1,84 @@
+                                                INSTITUCION EDUCATIVA_TP
+                                         DETALLE DE PAGOS REALIZADOS POR CICLO
+                                                     CICLO: 2023-1
+========================================================================================================================
+      ALUMNOS                                             No. DE CURSOS     CREDITOS       ESCALA       MONTO PAGADO
+------------------------------------------------------------------------------------------------------------------------
+20202031 - VALENTINA ROCIO AQUINO AQUINO                        5            19.00            B           6196.47
+20226271 - EDGARD HENRY VELASQUEZ VELASQUEZ                     2            10.00            C           4055.40
+20209968 - CARLOS JULIAN PRADO PRADO                            1             4.25            D           2093.76
+20208940 - CARLOS ALBERTO BARRIOS BARRIOS                       5            19.75            B           6441.07
+20197374 - VICTOR VILCARA VILCARA                               3             9.50            D           4680.18
+20231152 - JENNY DELICIA HIJAR HIJAR                            4            15.75            E           9133.58
+20218376 - CHRISTIAN LANDA LANDA                                2             7.50            A           1924.80
+20231938 - BRUNO ROBERTO MARTEL MARTEL                          4            17.25            E          10003.45
+20211892 - HENRY GONZALES GONZALES                              1             3.25            B           1059.92
+20193373 - ALEX MARTIN VASQUEZ VASQUEZ                          5            20.25            C           8212.18
+20216619 - RAFAEL IBEROS IBEROS                                 3            12.75            D           6281.29
+20238549 - ERICKA VICTORIA JUSTINO JUSTINO                      3            12.75            A           3272.16
+20222575 - PAUL YOSHINARI YOSHINARI                             2             6.00            B           1956.78
+20215248 - CHRISTIAN ALONSO MEJIA MEJIA                         2             7.00            A           1796.48
+20213075 - YDALI FLORIAN FLORIAN                                5            19.25            E          11163.27
+20224165 - MADELEINE YLIANA MIYAKE MIYAKE                       1             3.25            A            834.08
+20219990 - ROCIO YOLANDA ACUNA ACUNA                            5            19.25            A           4940.32
+20195764 - MONICA DORIS CALIXTO CALIXTO                         3            15.25            A           3913.76
+20235440 - JOHANA GLORIA PORTUGAL PORTUGAL                      5            19.75            D           9729.84
+20218255 - BLANCA MILAGROS MEJIA MEJIA                          4            14.50            B           4728.89
+20192298 - MIGUEL CORREA CORREA                                 1             5.00            C           2027.70
+20217328 - MIGUEL ROBERTO ALAMO ALAMO                           4            12.00            A           3079.68
+20202687 - INES MARTHA MORALES MORALES                          1             4.25            A           1090.72
+20205830 - ELIZABETH ELIZABETH FERNANDEZ FERNANDEZ              3            12.50            A           3208.00
+20193984 - CHRISTIAN PAREDES PAREDES                            1             5.00            A           1283.20
+20195979 - FRANCISCO EDGAR MEJIA DELAHAZA                       4            14.50            E           8408.69
+20193573 - ANNIE OFELIA ASMAD ASMAD                             4            14.00            A           3592.96
+20196536 - VIRGINIA IRMA BENAVENTE BENAVENTE                    2             7.00            B           2282.91
+20219566 - MILENA JENNY MEDINA MEDINA                           4            16.50            C           6691.41
+20202756 - EDGAR RICHARD PRADO PRADO                            4            16.50            D           8128.73
+20239652 - CESAR ADOLFO INGA INGA                               4            15.50            E           8988.60
+20198069 - EVERT ROBERTO AMEZQUITA AMEZQUITA                    3            12.25            E           7103.90
+20238246 - CAROLA ERIKA RUIZ RUIZ                               2             7.00            C           2838.78
+20194050 - IRMA LOURDES CORRALES CORRALES                       4            12.50            A           3208.00
+20195340 - MARTIN CERNA CERNA                                   1             5.75            D           2832.74
+20193012 - ALBERTO DELACUBA PAIRAZAMAN                          1             5.25            C           2129.09
+20196245 - GONZALO VEGA VEGA                                    3            11.75            D           5788.64
+20193769 - CINTHIA NORABUENA NORABUENA                          3            11.75            B           3832.03
+20221316 - ADRIA GLORIA RAFFO RAFFO                             1             4.25            A           1090.72
+20237059 - GUILLERMO CALDERON CALDERON                          4            17.25            D           8498.21
+20233583 - HENRRY HUMBERTO PALOMARES PALOMARES                  1             3.75            B           1222.99
+20195244 - CARMELA INES CORTEZ CORTEZ                           3            13.25            A           3400.48
+20197155 - WILLIAMS JUSTINO JUSTINO                             2             7.00            A           1796.48
+20197480 - JOSE ROLANDO CERNA CERNA                             2             7.75            A           1988.96
+20205844 - TATIANA NANCY VILLA VILLA                            3            10.75            A           2758.88
+20233816 - RONY GONZALO VALVERDE VALVERDE                       3            12.00            E           6958.92
+20221873 - ALEX HENRIQUEZ HENRIQUEZ                             2             9.75            B           3179.77
+20197378 - DORIS FREYSA VILLEGAS VILLEGAS                       5            18.00            B           5870.34
+20205864 - JOHANA MALDONADO MALDONADO                           3            12.75            D           6281.29
+20207053 - MARTHA LOZADA LOZADA                                 2             6.00            C           2433.24
+20198845 - ADOLFO LANDEO LANDEO                                 3            11.00            E           6379.01
+20216298 - SILVANA MALDONADO MALDONADO                          3            10.25            E           5944.08
+20227724 - HELI CORONEL CORONEL                                 4            15.75            D           7759.24
+20227341 - MAGALI SILVANA DIAZ DIAZ                             2             8.50            D           4187.52
+20226455 - BEATRIZ HENRIQUEZ HENRIQUEZ                          2             7.50            B           2445.97
+20198237 - ROLANDO CASTRO CASTRO                                1             2.75            C           1115.24
+20236453 - EDRIC RONALD ARCA ARCA                               4            17.25            B           5625.74
+20198922 - MOISES MIGUEL PAIRAZAMAN PAIRAZAMAN                  3            10.25            E           5944.08
+20229272 - JOHANA YDALI CRUZ CRUZ                               3            10.00            E           5799.10
+20212697 - OSCAR RETAMOSO RETAMOSO                              1             5.00            C           2027.70
+20191754 - JOHNNY MOYA MOYA                                     1             3.75            D           1847.44
+20236102 - DANIEL SALAS SALAS                                   2             6.50            B           2119.84
+20224223 - SURAMI JANET PASQUEL PASQUEL                         1             3.25            E           1884.71
+20236905 - MELVIN HENRRY LAURA LAURA                            4            15.50            A           3977.92
+20193490 - JOHAN CORONADO CORONADO                              3            13.75            C           5576.18
+20197557 - SANDRO CARO CARO                                     1             4.25            D           2093.76
+20198608 - YVONNE ROSARIO GORDILLO GORDILLO                     4            17.25            B           5625.74
+20229400 - GUILLERMO ALFONSO DELGADO DELGADO                    5            18.00            A           4619.52
+20218679 - JAVIER DANIEL AURIS AURIS                            4            17.00            D           8375.05
+20208971 - RAFAEL SUAREZ SUAREZ                                 4            17.00            C           6894.18
+20207741 - GUILLERMO EDRIC CABRERA CABRERA                      1             3.25            E           1884.71
+20193891 - ELIA ROSA CAMACHO CAMACHO                            3            13.50            D           6650.77
+20208175 - WILLIAMS CHRISTIAN HIJAR HIJAR                       4            17.25            A           4427.04
+20225162 - CESAR BRUNO PISCOYA PISCOYA                          2             6.75            C           2737.39
+20198434 - SILVANA CHAVEZ CHAVEZ                                2            10.50            D           5172.82
+------------------------------------------------------------------------------------------------------------------------
+MONTO TOTAL PAGADO:                                                                                     335528.48
+========================================================================================================================
