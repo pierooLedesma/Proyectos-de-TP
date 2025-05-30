@@ -1,7 +1,7 @@
 
 
 /* 
- * Archivo:   Funciones.cpp
+ * Archivo:   Funciones.h
  * Autor: Alessandro Piero Ledesma Guerra - 20217340
  * Creado el 27 de mayo de 2025, 10:25 AM
  */
