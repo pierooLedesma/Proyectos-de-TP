@@ -45,7 +45,7 @@ void concatenar(char *cadena_1, const char *cadena_2){
     // saber desde dónde empezar a copiar.
     int indice = longitud_cadena(cadena_1);
     
-     // Copiar "cadena_2" al final de "cadena_1" empezando desde el
+    // Copiar "cadena_2" al final de "cadena_1" empezando desde el
     // índice justo después del último carácter de "cadena_1"
     copiar_cadena(&cadena_1[indice], cadena_2);
 }
