@@ -3,18 +3,18 @@
 /* 
  * Archivo:   main.cpp
  * Autor: Alessandro Piero Ledesma Guerra - 20217340
- * Descripción: El programa elabora un reporte de lo que pagaría un alumno en un semestre
- *              determinado de acuerdo a la cantidad de créditos que lleva. Primero, se le
- *              solicita al usuario que ingrese un semestre (de esta forma: año-ciclo). Posterior
- *              a ello, se inicia la elaboración del reporte. Se leen los archivos "Alumnos.txt",
- *              "Cursos.txt" y "Escalas.txt" y se almacena en arreglos los datos que se leen
- *              excepto las cadenas de caracteres. Mediante el archivo "Matricula.txt", se actualiza 
- *              la cantidad de curso, la cantidad de créditos y el monto pagado en arreglos por
- *              cada alumno. Finalmente, se elabora el reporte solicitado en el archivo
- *              "ReporteDePagoPorAlumno.txt"y los nombres se imprimen mediante los archivos 
- *              "AlumnosNombres.txt" y "AlumnosApellidos.txt" en el cual el nombre de cada alumno
- *              es procesada mediante una concatenación y modificación de cadenas en la 
- *              función "modificaTexto".
+ * Descripción: El programa genera un reporte con el monto que debe pagar cada alumno en un semestre
+ *              determinado, en función de la cantidad de créditos matriculados. Para ello, primero solicita
+ *              al usuario que ingrese el semestre en formato año-ciclo (por ejemplo, 2024-1). A continuación,
+ *              el programa inicia la elaboración del reporte. Lee y almacena en arreglos los datos de los
+ *              archivos "Alumnos.txt", "Cursos.txt" y "Escalas.txt", exceptuando los datos de tipo cadena de
+ *              caracteres. Posteriormente, procesa el archivo "Matricula.txt", a partir del cual se actualiza para
+ *              cada alumno la cantidad de cursos matriculados, el total de créditos y el monto a pagar.
+ *              Finalmente, se genera el archivo "ReporteDePagoPorAlumno.txt", que contiene la información
+ *              consolidada por estudiante. Para mostrar los nombres completos, se utilizan los archivos
+ *              "AlumnosNombres.txt" y "AlumnosApellidos.txt", cuyos contenidos son procesados y formateados
+ *              adecuadamente mediante la función "modificaTexto", que se encarga de concatenar y ajustar las
+ *              cadenas para su presentación final.
  * Creado el 22 de mayo de 2025, 12:57 PM
  */
 
