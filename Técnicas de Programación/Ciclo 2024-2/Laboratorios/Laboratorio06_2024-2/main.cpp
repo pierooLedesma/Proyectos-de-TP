@@ -3,14 +3,18 @@
 /* 
  * Archivo:   main.cpp
  * Autor: Alessandro Piero Ledesma Guerra - 20217340
- * Descripción: El programa realiza un reporte de platos vendidos. Se lee el archivo "RepartosARealizar.txt"
- *              y se almacena los datos (el código del plato y la cantidad vendida) de los platos en arreglos
- *              de forma descendente. Mediante el archivo "PlatosOfrecidos.txt", se actualizan las cantidades
- *              (precio, ingreso bruto, descuento del plato y el total ingresado por el plato). Se emite un reporte
- *              de prueba para verificar la correcta asignación de los datos almacenados en arreglos. Finalmente,
- *              se emite el reporte solicitado, nuevamente, mediante el archivo "PlatosOfrecidos.txt". La función
- *              de búsquedad en los arreglos es realizada mediante el método de búsqueda binaria y la
- *              modificación de una cadena de caracteres es dada por la función "modificarCadena".
+ * Descripción: El programa genera un reporte de platos vendidos. Para ello, primero se lee el archivo 
+ *              "RepartosARealizar.txt" y se almacenan en arreglos los datos correspondientes a cada plato 
+ *              (código y cantidad vendida), ordenados de forma descendente. Luego, utilizando la información
+ *              del archivo "PlatosOfrecidos.txt", se actualizan los datos de cada plato: precio, ingreso bruto,
+ *              descuento aplicado y el total recaudado por cada uno.
+ *              Se emite un reporte preliminar llamado "ReporteDePruebaDeCargaDeDatos.txt" para verificar
+ *              que los datos se hayan almacenado y asignado correctamente. Finalmente, se genera el reporte
+ *              definitivo en el archivo "ReporteDePlatosVendidos.txt", nuevamente haciendo uso del archivo
+ *              "PlatosOfrecidos.txt".
+ *              La búsqueda dentro de los arreglos se realiza mediante el algoritmo de búsqueda binaria,
+ *              mientras que la modificación de cadenas de texto se lleva a cabo mediante la función 
+ *              "modificarCadena".
  * Creado el 27 de mayo de 2025, 10:23 AM
  */
 
