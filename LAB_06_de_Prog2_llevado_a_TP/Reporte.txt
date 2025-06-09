@@ -1,0 +1,39 @@
+  1)  13219606   Rodriguez Moreno Blanca Ofelia               P201-291/M312-270/M312-270                             NO HAY FECHA PAGADA
+  2)  75348522   Lozada Forzani Delia                         G113-951/G841-644/P310-575/G938-356/G744-786           Ultima fecha pagada: 24/05/2024
+  3)  81799482   Cerna Cerna Cinthia                          G605-765/M359-944/G592-689/M561-874/G635-752           Ultima fecha pagada: 17/07/2024
+  4)  87282766   Suarez Chang Gloria                          M440-802                                               Ultima fecha pagada: 31/12/2023
+  5)  90467829   Iparraguirre Perez Nicolas                   P985-495/G189-507/P863-768/M844-240/G600-343           Ultima fecha pagada: 14/10/2024
+  6)  47528229   Saavedra Gonzales Wilmer                     P325-365/M466-711                                      Ultima fecha pagada: 31/05/2022
+  7)  87495937   Morales Pasquel Karin Maribel                G329-867                                               Ultima fecha pagada: 27/04/2023
+  8)  81485316   Justino Martinez Enrique                     P486-917/M500-707/G156-830/M774-204/G710-594           Ultima fecha pagada: 17/05/2020
+  9)  79766395   Fuentes Escalante Patricia Elizabeth         G485-562/P195-859/G763-950                             Ultima fecha pagada: 07/04/2024
+ 10)  82031355   Egusquiza/Berrocal/Doris-Nancy               P386-900/M599-949                                      NO HAY FECHA PAGADA
+ 11)  73818744   Fuentes Gamarra Hugo                         G662-512/G393-114/P251-666/G938-342                    Ultima fecha pagada: 26/01/2025
+ 12)  88167677   Prado Vera Juan                              G264-957/G325-333/P665-969/M366-914/M435-175           Ultima fecha pagada: 22/01/2024
+ 13)  73972114   Avila Martel Jaime Manuel                    M862-577/G657-925/M646-319/M655-864/P255-643           Ultima fecha pagada: 04/05/2025
+ 14)  89314225   Rios Durand Carlos Edilberto                 P355-270/G760-721/P152-838/G256-432/M288-737           Ultima fecha pagada: 23/10/2024
+ 15)  82870470   Sedano Retamoso Elia Yolanda                 P478-603/P516-487                                      Ultima fecha pagada: 26/10/2024
+ 16)  89941095   Arca Larriega Lucero Yliana                  P860-616/G226-459/P474-593/G138-788/M708-335           Ultima fecha pagada: 29/02/2024
+ 17)  48528209   Zavaleta Coronado Felicita Eloisa            G262-654/G958-240/G402-859/P156-716/G400-314           Ultima fecha pagada: 13/11/2022
+ 18)  19568447   Vega Soria Henrry                            M907-605                                               Ultima fecha pagada: 24/10/2024
+ 19)  80310768   Minaya Berrocal Heli                         M982-853/G752-478/G893-799/M267-848/M477-146           Ultima fecha pagada: 27/12/2024
+ 20)  86429854   Moscoso Laura Janet Valentina                M580-968/P364-899/M510-956/G374-384/M360-947           NO HAY FECHA PAGADA
+ 21)  81528434   Epiquen Avila Enrique                        G377-489/M832-314/M837-854/P325-587/G650-450           Ultima fecha pagada: 30/08/2024
+ 22)  73567806   Arca Sanchez Magali Beatriz Iris             M993-637/P426-388/M666-407/G458-550                    NO HAY FECHA PAGADA
+ 23)  12443643   Lee Serrano Rosario                          M421-807/G926-575/P235-315/M483-214                    Ultima fecha pagada: 21/12/2023
+ 24)  12858682   Zarate Perez Alexander                       M207-572/G520-337/M137-958                             Ultima fecha pagada: 29/04/2023
+ 25)  74325123   Tang Moscoso Johana                          P905-539/P770-513/G968-856/G214-608/M348-264           Ultima fecha pagada: 14/08/2023
+ 26)  80457845   Norabuena Moya Hector                        G616-581/P670-603/G874-915/G410-582/M912-415           Ultima fecha pagada: 03/03/2022
+ 27)  47844324   Vilca Lee Nestor Hugo                        P618-120/G835-830/P131-278                             Ultima fecha pagada: 25/08/2023
+ 28)  86718074   Escalante Rojas Ines Adria                   G368-136                                               Ultima fecha pagada: 18/04/2025
+ 29)  75945248   Mejia Rodriguez Ines Valentina               P939-759/G450-448/G721-932                             Ultima fecha pagada: 25/02/2025
+ 30)  12270502   Cueva Fuentes Cinthia Delia                  G855-340/G266-362/P246-429/G991-678/G250-663           Ultima fecha pagada: 05/03/2024
+ 31)  77367073   Jauregui Del Castillo Victor Ricardo         G974-598/G542-724/M655-400                             Ultima fecha pagada: 09/10/2024
+ 32)  13628871   Quiroga Hernandez Silvana Zkenia Maria       P203-441                                               Ultima fecha pagada: 28/07/2020
+ 33)  84186239   Rivero Coronado Hector Alonso Jose           P582-282/G872-544                                      Ultima fecha pagada: 30/01/2024
+ 34)  85501710   Vizcardo Sinche Maribel                      M651-665/P532-434                                      Ultima fecha pagada: 31/03/2025
+ 35)  48450395   Ramirez Astete Karina Estefania              P692-666/G328-654/M317-350/P559-672                    Ultima fecha pagada: 11/04/2025
+ 36)  79641328   Tokeshi Guevara Jaime                        G734-120/M512-863/G437-799                             Ultima fecha pagada: 17/11/2024
+ 37)  79672079   Contreras Chang Johana Cinthia               P599-629/P282-128/M852-620                             Ultima fecha pagada: 02/02/2024
+ 38)  77763722   Farfan Salazar Margot                        P163-421/P482-255/M277-299                             Ultima fecha pagada: 29/05/2023
+ 39)  88854166   Pinto Rojas Juvenal Francisco                P324-421/G411-657/M257-722/G568-563/P131-555           Ultima fecha pagada: 06/11/2024
