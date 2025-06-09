@@ -13,20 +13,20 @@
 
 int main(int argc, char** argv) {
     int arr_cod_infraccion[MAX_CANT_INFRACCIONES], cant_infracciones,
-         arrDNI[MAX_CANT_REPRESENTANTES], arrFechaInfraccionMasAntigua[MAX_CANT_REPRESENTANTES],
-         arrFechaUltimaPagada[MAX_CANT_REPRESENTANTES]{}, cant_representantes;
+        arrDNI[MAX_CANT_REPRESENTANTES], arrFechaInfraccionMasAntigua[MAX_CANT_REPRESENTANTES],
+        arrFechaUltimaPagada[MAX_CANT_REPRESENTANTES]{}, cant_representantes;
     double arr_multas[MAX_CANT_INFRACCIONES];
     char *arr_gravedad[MAX_CANT_INFRACCIONES], *arr_descripcion_infraccion[MAX_CANT_INFRACCIONES],
-            *arrNombre[MAX_CANT_REPRESENTANTES], *arrListaDePlacas[MAX_CANT_REPRESENTANTES];
+         *arrNombre[MAX_CANT_REPRESENTANTES], *arrListaDePlacas[MAX_CANT_REPRESENTANTES];
     leer_tabla_de_infracciones("TablaDeInfracciones.csv", arr_cod_infraccion, arr_multas,
-                                                arr_gravedad, arr_descripcion_infraccion, cant_infracciones);
+                               arr_gravedad, arr_descripcion_infraccion, cant_infracciones);
     leer_empresas_registradas("EmpresasRegistradas.csv", arrDNI, arrNombre,
-                                                arrListaDePlacas, cant_representantes);
+                              arrListaDePlacas, cant_representantes);
     leer_infracciones_cometidas("InfraccionesCometidas.csv", arr_cod_infraccion, arr_multas, cant_infracciones,
-                                                   arrDNI, arrNombre, arrListaDePlacas, arrFechaInfraccionMasAntigua,
-                                                   arrFechaUltimaPagada, cant_representantes);
+                                arrDNI, arrNombre, arrListaDePlacas, arrFechaInfraccionMasAntigua,
+                                arrFechaUltimaPagada, cant_representantes);
     emitir_reporte("Reporte.txt", arrDNI, arrNombre, arrListaDePlacas, 
-                            arrFechaInfraccionMasAntigua, arrFechaUltimaPagada, cant_representantes);
+                   arrFechaInfraccionMasAntigua, arrFechaUltimaPagada, cant_representantes);
     return 0;
 }
 
