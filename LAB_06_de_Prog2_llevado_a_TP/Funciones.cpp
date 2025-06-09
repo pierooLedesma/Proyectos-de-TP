@@ -101,7 +101,7 @@ void imprimir_fecha(int fecha, ofstream &output) {
 
 
 void emitir_reporte(const char *nombre_archivo, int *arrDNI, char **arrNombre, char **arrListaDePlacas, 
-                           int *arrFechaInfraccionMasAntigua, int *arrFechaUltimaPagada, int cant_representantes) {
+                    int *arrFechaInfraccionMasAntigua, int *arrFechaUltimaPagada, int cant_representantes) {
     ofstream output;
     aperturar_archivo_escritura(nombre_archivo, output);
     for(int i=0; i < cant_representantes; i++) {
@@ -128,7 +128,7 @@ void emitir_reporte(const char *nombre_archivo, int *arrDNI, char **arrNombre, c
 
 
 void leer_una_infraccion_cometida(int &fecha_infraccion, char *&placa_leida, int &cod_infraccion_leida,
-                                                             int &fecha_pagada, ifstream &input) {
+                                  int &fecha_pagada, ifstream &input) {
     char caracter_de_que_se_pago_la_infraccion;
     
     fecha_infraccion = leer_fecha(input);
@@ -197,7 +197,7 @@ void extraer_placa(char *listaDePlacas, int n_placa, char *&placa_extraida) {
     
     if(n_placa >= 1  and  n_placa <= cantidad_de_placas) {
         copiar_placa(listaDePlacas, (n_placa - 1)*MAX_CARACTERES_DE_UNA_PLACA,
-                             n_placa*MAX_CARACTERES_DE_UNA_PLACA, placa_extraida);
+                     n_placa*MAX_CARACTERES_DE_UNA_PLACA, placa_extraida);
     }
 }
 
@@ -285,7 +285,7 @@ void procesar_placas(char *listaDePlacas, ifstream &input) {
 
 
 void leer_empresas_registradas(const char *nombre_archivo, int *arrDNI, char **arrNombre,
-                                                         char **arrListaDePlacas, int &cant_representantes) {
+                               char **arrListaDePlacas, int &cant_representantes) {
     ifstream input;
     aperturar_archivo_lectura(nombre_archivo, input);
     int dni;
@@ -306,7 +306,7 @@ void leer_empresas_registradas(const char *nombre_archivo, int *arrDNI, char **a
 
 
 void leer_tabla_de_infracciones(const char *nombre_archivo, int *arr_cod_infraccion, double *arr_multas,
-                                                        char **arr_gravedad, char **arr_descripcion_infraccion, int &cant_infracciones) {
+                                char **arr_gravedad, char **arr_descripcion_infraccion, int &cant_infracciones) {
     ifstream input;
     aperturar_archivo_lectura(nombre_archivo, input);
     int cod_infraccion;
