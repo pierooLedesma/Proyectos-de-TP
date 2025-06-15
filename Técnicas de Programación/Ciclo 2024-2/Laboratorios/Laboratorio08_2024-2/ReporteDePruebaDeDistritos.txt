@@ -1,0 +1,49 @@
+========================================================================================================================
+                                            VERIFICAR DATOS DE LOS DISTRITOS
+========================================================================================================================
+                            No.         CODIGO           NOMBRE DEL DISTRITO       UBICACION
+------------------------------------------------------------------------------------------------------------------------
+                            001)        LN3085           Ancon                       NORTE
+                            002)        LE3053           Ate Vitarte                 ESTE
+                            003)        LO1769           Barranco                    OESTE
+                            004)        LO4328           Brena                       OESTE
+                            005)        LN4803           Carabayllo                  NORTE
+                            006)        LO2220           Cercado de Lima             OESTE
+                            007)        LE5926           Chaclacayo                  ESTE
+                            008)        LO1657           Chorrillos                  OESTE
+                            009)        LE3801           Cieneguilla                 ESTE
+                            010)        LN1439           Comas                       NORTE
+                            011)        LE7040           El Agustino                 ESTE
+                            012)        LN7093           Independencia               NORTE
+                            013)        LO8667           Jesus Maria                 OESTE
+                            014)        LE3716           La Molina                   ESTE
+                            015)        LO7318           La Victoria                 OESTE
+                            016)        LO4311           Lince                       OESTE
+                            017)        LN7752           Los Olivos                  NORTE
+                            018)        LE9832           Lurigancho                  ESTE
+                            019)        LS8160           Lurin                       SUR
+                            020)        LO4439           Magdalena del Mar           OESTE
+                            021)        LO6223           Miraflores                  OESTE
+                            022)        LS6184           Pachacamac                  SUR
+                            023)        LS3328           Pucusana                    SUR
+                            024)        LO5964           Pueblo Libre                OESTE
+                            025)        LN8659           Puente Piedra               NORTE
+                            026)        LS6092           Punta Hermosa               SUR
+                            027)        LS3175           Punta Negra                 SUR
+                            028)        LO3562           Rimac                       OESTE
+                            029)        LS2020           San Bartolo                 SUR
+                            030)        LO3691           San Borja                   OESTE
+                            031)        LO9713           San Isidro                  OESTE
+                            032)        LE7894           San Juan de Lurigancho      ESTE
+                            033)        LS2765           San Juan de Miraflores      SUR
+                            034)        LE6936           San Luis                    ESTE
+                            035)        LN2958           San Martin de Porres        NORTE
+                            036)        LO5817           San Miguel                  OESTE
+                            037)        LE4504           Santa Anita                 ESTE
+                            038)        LS3308           Santa Maria del Mar         SUR
+                            039)        LN4826           Santa Rosa                  NORTE
+                            040)        LO9443           Santiago de Surco           OESTE
+                            041)        LO9222           Surquillo                   OESTE
+                            042)        LS8280           Villa El Salvador           SUR
+                            043)        LS8594           Villa Maria del Triunfo     SUR
+========================================================================================================================

@@ -1,0 +1,107 @@
+========================================================================================================================
+                                            VERIFICAR DATOS DE LOS CLIENTES
+========================================================================================================================
+                     No.   DNI            NOMBRE DEL CLIENTE                      COD. DEL DISTRITO
+------------------------------------------------------------------------------------------------------------------------
+                     001)  90367684       CORONEL CHUMPITAZ HELI                       LS8594
+                     002)  99774549       HENRIQUEZ ESPINO BEATRIZ                     LO3691
+                     003)  63640178       CABRERA CANALES GUILLERMO EDRIC              LO4439
+                     004)  66039166       LAURA WONG MELVIN HENRRY                     LO3562
+                     005)  20371464       CARO POLO SANDRO                             LE7894
+                     006)  35606314       PORTUGAL BENAVENTE JOHANA GLORIA             LO1657
+                     007)  35852072       JUSTINO CRUZ WILLIAMS                        LE3053
+                     008)  51465986       CAMACHO AGUERO ELIA ROSA                     LE3716
+                     009)  79100967       LANDA PISCOYA CHRISTIAN                      LN2958
+                     010)  72973662       BENAVENTE AYALA VIRGINIA IRMA                LN7093
+                     011)  54149342       MIYAKE MEREL MADELEINE YLIANA                LO2220
+                     012)  72330000       MEDINA VELASQUEZ MILENA JENNY                LN2958
+                     013)  31284904       CORREA VIZCARDO MIGUEL                       LO4328
+                     014)  66091742       AMEZQUITA EPIQUEN EVERT ROBERTO              LN1439
+                     015)  93961840       CRUZ FUENTES JOHANA YDALI                    LS8594
+                     016)  32538825       YOSHINARI RIVERA PAUL                        LO5964
+                     017)  94683380       ASMAD ACUNA ANNIE OFELIA                     LN7093
+                     018)  59561864       CHAVEZ PRADO SILVANA                         LO9443
+                     019)  61061535       DE LA CUBA ALBERTO PAIRAZAMAN                LO5964
+                     020)  22679759       GORDILLO YINO YVONNE ROSARIO                 LN7752
+                     021)  53420926       MARTEL ASMAD BRUNO ROBERTO                   LE7040
+                     022)  37282858       HIJAR YEP WILLIAMS CHRISTIAN                 LO5817
+                     023)  34571095       CALDERON ORTEGA GUILLERMO                    LN4826
+                     024)  93282118       SUAREZ BOLANOS RAFAEL                        LO6223
+                     025)  86836066       IBEROS VALDERRAMA RAFAEL                     LO8667
+                     026)  57182371       VILCARA CORREA VICTOR                        LS8280
+                     027)  43704548       VALVERDE BERROCAL RONY GONZALO               LO4439
+                     028)  12484697       HENRIQUEZ PORTUGAL ALEX                      LO2220
+                     029)  17299012       GONZALES ARIAS HENRY                         LE7894
+                     030)  99891737       RETAMOSO BARRERA OSCAR                       LO2220
+                     031)  91187814       MALDONADO FLORIAN JOHANA                     LE4504
+                     032)  36471787       ACUNA YINO ROCIO YOLANDA                     LO5964
+                     033)  81647285       VILLEGAS PALOMINO DORIS FREYSA               LE7894
+                     034)  15290194       BARRIOS TOMASICHE CARLOS ALBERTO             LS8280
+                     035)  45914393       MEJIA HUAYANAY CHRISTIAN ALONSO              LO3691
+                     036)  54815159       FLORIAN MORALES YDALI                        LO5964
+                     037)  85395219       MOYA ARANDA JOHNNY                           LE7894
+                     038)  13731806       CORTEZ SEGURA CARMELA INES                   LO3562
+                     039)  75100362       VEGA MUNOZ GONZALO                           LO5964
+                     040)  68269451       HIJAR PAIRAZAMAN JENNY DELICIA               LE3716
+                     041)  86988155       ALAMO PAIRAZAMAN MIGUEL ROBERTO              LE4504
+                     042)  77440060       CORONADO FIGUEROA JOHAN                      LE4504
+                     043)  68114999       RUIZ GORDILLO CAROLA ERIKA                   LN1439
+                     044)  92275859       CALIXTO TOMASICHE MONICA DORIS               LE7040
+                     045)  28992638       ANTEZANO SEGURA TERESA DELIA                 LO6223
+                     046)  71422479       ZARATE DEL POZO HUMBERTO ANTONIO             LS8280
+                     047)  25062013       GAVIDIA MENDOZA RONALD JOHNNY                LE7894
+                     048)  49357767       PATINO CHUNG BEATRIZ ROSA                    LN2958
+                     049)  51873364       SEGURA MALCA RONY                            LO3562
+                     050)  95656771       FARFAN FALCON ELIZABETH KARIN                LO9222
+                     051)  30246960       SUCHERO EPIQUEN EDGAR JAVIER                 LO4328
+                     052)  34697743       ASTETE RIOS CESAR WILVER                     LO9443
+                     053)  62126128       MEREL SALAZAR ANNIE LOURDES                  LE4504
+                     054)  51642949       SUELDO RUIZ ANTONIO                          LN2958
+                     055)  80694546       DIAZ REYES WALTER EDGAR                      LE3716
+                     056)  65912822       LAU BACA MONICA TERESA                       LN4826
+                     057)  45201670       URBINA HIJAR RAFAEL                          LE4504
+                     058)  81539774       URBINA CASTILLO HELI                         LO4439
+                     059)  77324146       FALCON PRECIADO ALEX HENRY                   LO4328
+                     060)  62287143       DE LA CUBA JUGO LUCERO DELICIA               LO5964
+                     061)  52313890       DURAND MEZA WALDEMAR EDGARD                  LO4328
+                     062)  36934113       SALAS URBINA MAGDA CARMEN                    LN7752
+                     063)  58643376       VILLEGAS LEIVA FELICITA                      LO9222
+                     064)  27709566       SUAREZ MUNOZ MADELEINE                       LE3053
+                     065)  60543714       BARRERA MIRANDA ALEXANDER MARTIN             LO3691
+                     066)  35347567       FIGUEROA COLLADO EVERT                       LO7318
+                     067)  22598563       MONTERO MONTERO ANNIE                        LO8667
+                     068)  14956687       LA HAZA CABRERA ALBERTO DE                   LE6936
+                     069)  59596317       AYALA VIZCARDO EDGAR MANUEL                  LO3562
+                     070)  93231760       CHUMPITAZ ALCOCER ANGEL ERICK                LN7752
+                     071)  93939698       CHUMPITAZ PALOMARES VIRGINIA                 LE7040
+                     072)  41964357       VILLA SEDANO MARTIN JUVENAL                  LO3562
+                     073)  79133967       GUEVARA MIYAKE MILENA                        LO4439
+                     074)  72937662       ROSEMBERG LAU JULIO HENRRY                   LO4328
+                     075)  59199342       ZAMBRANO MOSCOSO OFELIA MARIA                LO5964
+                     076)  67277765       CORTEZ SEGURA CARMELA INES                   LO9222
+                     077)  92980780       VEGA MUNOZ GONZALO                           LO4439
+                     078)  65278099       HIJAR PAIRAZAMAN JENNY DELICIA               LS8594
+                     079)  78223294       ALAMO PAIRAZAMAN MIGUEL ROBERTO              LO9443
+                     080)  81334083       CORONADO FIGUEROA JOHAN                      LO3691
+                     081)  49573578       RUIZ GORDILLO CAROLA ERIKA                   LE7040
+                     082)  31526241       CALIXTO TOMASICHE MONICA DORIS               LO4328
+                     083)  80740735       ANTEZANO SEGURA TERESA DELIA                 LO4328
+                     084)  73518695       ZARATE DEL POZO HUMBERTO ANTONIO             LE7894
+                     085)  76595144       GAVIDIA MENDOZA RONALD JOHNNY                LE7894
+                     086)  37769366       PATINO CHUNG BEATRIZ ROSA                    LO9222
+                     087)  40711531       SEGURA MALCA RONY                            LE3053
+                     088)  82583252       FARFAN FALCON ELIZABETH KARIN                LO9443
+                     089)  31712526       SUCHERO EPIQUEN EDGAR JAVIER                 LE7040
+                     090)  32352361       ASTETE RIOS CESAR WILVER                     LN2958
+                     091)  51808448       MEREL SALAZAR ANNIE LOURDES                  LO3562
+                     092)  46466842       SUELDO RUIZ ANTONIO                          LS8594
+                     093)  65308391       DIAZ REYES WALTER EDGAR                      LN2958
+                     094)  56100384       LAU BACA MONICA TERESA                       LE3716
+                     095)  52650965       URBINA HIJAR RAFAEL                          LO1657
+                     096)  64262396       URBINA CASTILLO HELI                         LN7093
+                     097)  22303979       FALCON PRECIADO ALEX HENRY                   LS8280
+                     098)  51108372       DE LA CUBA JUGO LUCERO DELICIA               LO4439
+                     099)  38986512       DURAND MEZA WALDEMAR EDGARD                  LE3716
+                     100)  63230770       SALAS URBINA MAGDA CARMEN                    LE7894
+                     101)  86297512       VILLEGAS LEIVA FELICITA                      LO2220
+========================================================================================================================
