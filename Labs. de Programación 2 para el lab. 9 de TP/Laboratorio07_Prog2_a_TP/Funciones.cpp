@@ -56,12 +56,12 @@ char* obtener_ruta(const char *nombre_carpeta, const char *nombre_tipo_archivo, 
     char *ruta_de_archivo;
     char buffer[40];  // Buffer temporal para construir la ruta.
     
-    strcpy(buffer, nombre_carpeta);          // Copiar el nombre de la carpeta (ejemplo: "Datos")
-    strcat(buffer, "/");                                // Añadir el separador de carpeta -> "Datos/"
-    strcat(buffer, nombre_tipo_archivo);   // Añadir el tipo de archivo -> "Datos/Drones"
-    strcat(buffer, "_");                               // Añadir guion bajo -> "Datos/Drones_"
-    strcat(buffer, nombre_zona);               // Añadir el nombre de la zona -> "Datos/Drones_Lima"
-    strcat(buffer, ".csv");                          // Añadir la extensión -> "Datos/Drones_Lima.csv"
+    strcpy(buffer, nombre_carpeta);         // Copiar el nombre de la carpeta (ejemplo: "Datos")
+    strcat(buffer, "/");                    // Añadir el separador de carpeta -> "Datos/"
+    strcat(buffer, nombre_tipo_archivo);    // Añadir el tipo de archivo -> "Datos/Drones"
+    strcat(buffer, "_");                    // Añadir guion bajo -> "Datos/Drones_"
+    strcat(buffer, nombre_zona);            // Añadir el nombre de la zona -> "Datos/Drones_Lima"
+    strcat(buffer, ".csv");                 // Añadir la extensión -> "Datos/Drones_Lima.csv"
     
     ruta_de_archivo = asignar_cadena(buffer);  // Copiar el contenido del buffer dinámicamente.
     
@@ -76,7 +76,7 @@ char* obtener_ruta(const char *nombre_carpeta, const char *nombre_tipo_archivo, 
 // Módulo que abre un archivo de lectura utilizando una ruta compuesta por el nombre de una carpeta,
 // tipo de archivo y nombre de una zona. Se construye la ruta y llama al módulo "aperturar_archivo_lectura()".
 void aperturar_archivo_mediante_una_ruta(ifstream &input, const char *nombre_carpeta,
-                                                                            const char *nombre_tipo_archivo, const char *zona) {
+                                         const char *nombre_tipo_archivo, const char *zona) {
     char *ruta;
     
     // Obtener la ruta completa del archivo (por ejemplo: "Datos/Drones_Lima.csv")
@@ -307,7 +307,7 @@ void imprimir_drones_velocidad(const struct DroneDeVelocidad *drones_velocidad, 
         output << setw(5) << ' ';
         elaborar_lineas('-', TAM_REPORTE - 5, output);
         imprimir_infracciones(drones_velocidad[indice].datos_drone.infracciones,
-                                          drones_velocidad[indice].datos_drone.cantidad_infracciones, output);
+                              drones_velocidad[indice].datos_drone.cantidad_infracciones, output);
     }
 }
 
@@ -328,7 +328,7 @@ void imprimir_drones_semaforo(const struct DroneSemaforo *drones_semaforo, int n
         output << setw(5) << ' ';
         elaborar_lineas('-', TAM_REPORTE - 5, output);
         imprimir_infracciones(drones_semaforo[indice].informacion_drone.infracciones,
-                                          drones_semaforo[indice].informacion_drone.cantidad_infracciones, output);
+                              drones_semaforo[indice].informacion_drone.cantidad_infracciones, output);
     }
 }
 
@@ -349,7 +349,7 @@ void imprimir_drones_estacionamiento(const struct DroneEstacionamiento *drones_e
         output << setw(5) << ' ';
         elaborar_lineas('-', TAM_REPORTE - 5, output);
         imprimir_infracciones(drones_estacionamiento[indice].info_drone.infracciones,
-                                          drones_estacionamiento[indice].info_drone.cantidad_infracciones, output);
+                              drones_estacionamiento[indice].info_drone.cantidad_infracciones, output);
     }
 }
 
@@ -396,11 +396,11 @@ void emitir_reporte(const char *nombre_archivo, const struct Zona *arrZonas, int
 
 // Módulo que lee un evento de infracción de un archivo CSV de eventos.
 void leer_un_evento_de_la_zona(char *&id_leido, char *&placa, int &fecha_infraccion,
-                                                           int &aviso_observado, ifstream &input) {
-    id_leido = leer_cadena(input, ',');             // Leer el ID del dron (hasta la coma).
-    if(id_leido == nullptr) return;                     // Si no hay más datos a leer, entonces salir del módulo.
-    placa = leer_cadena(input, ',');                 // Leer la placa del vehículo.
-    fecha_infraccion = leer_fecha(input);       // Leer la fecha (como entero).
+                               int &aviso_observado, ifstream &input) {
+    id_leido = leer_cadena(input, ',');      // Leer el ID del dron (hasta la coma).
+    if(id_leido == nullptr) return;          // Si no hay más datos a leer, entonces salir del módulo.
+    placa = leer_cadena(input, ',');         // Leer la placa del vehículo.
+    fecha_infraccion = leer_fecha(input);    // Leer la fecha (como entero).
     aviso_observado = leer_dato_int(input);  // Leer el valor observado (velocidad, semáforo, zona de carga).
 }
 
@@ -412,7 +412,7 @@ void leer_un_evento_de_la_zona(char *&id_leido, char *&placa, int &fecha_infracc
 
 // Módulo que busca un dron de tipo "Velocidad" por su ID. Si lo encuentra, devuelve su índice.
 bool encontrar_drone_velocidad(char *id_leido, const struct DroneDeVelocidad *drones_velocidad,
-                                                          int n_drones_velocidad, int &indice_a_retornar) {
+                               int n_drones_velocidad, int &indice_a_retornar) {
     for(int indice = 0; indice < n_drones_velocidad; indice++) {
         if(strcmp(drones_velocidad[indice].datos_drone.id, id_leido) == 0) {
             indice_a_retornar = indice;
@@ -429,7 +429,7 @@ bool encontrar_drone_velocidad(char *id_leido, const struct DroneDeVelocidad *dr
 
 // Módulo que busca un dron de tipo "Semaforo" por su ID. Si se encuentra este ID, entonces devuelve su índice.
 bool encontrar_drone_semaforo(char *id_leido, const struct DroneSemaforo *drones_semaforo,
-                                                         int n_drones_semaforo, int &indice_a_retornar) {
+                              int n_drones_semaforo, int &indice_a_retornar) {
     for(int indice = 0; indice < n_drones_semaforo; indice++) {
         if(strcmp(drones_semaforo[indice].informacion_drone.id, id_leido) == 0) {
             indice_a_retornar = indice;
@@ -447,7 +447,7 @@ bool encontrar_drone_semaforo(char *id_leido, const struct DroneSemaforo *drones
 
 // Módulo que busca un dron de tipo "Estacionamiento" por su ID. Si se encuentra , entonces se devuelve el índice.
 bool encontrar_drone_estacionamiento(char *id_leido, const struct DroneEstacionamiento *drones_estacionamiento,
-                                                                      int n_drones_estacionamiento, int &indice_a_retornar) {
+                                     int n_drones_estacionamiento, int &indice_a_retornar) {
     for(int indice = 0; indice < n_drones_estacionamiento; indice++) {
         if(strcmp(drones_estacionamiento[indice].info_drone.id, id_leido) == 0) {
             indice_a_retornar = indice;
@@ -466,8 +466,8 @@ bool encontrar_drone_estacionamiento(char *id_leido, const struct DroneEstaciona
 
 // Módulo que registra una infracción en el arreglo de infracciones del dron correspondiente.
 void actualizar_infracciones(struct Infraccion *infracciones, int &cantidad_infracciones, char *placa, 
-                                                 int fecha_infraccion, int aviso_observado, int aviso_permitido,
-                                                 int &cantidad_multas_registradas, double &total_multas_acumuladas) {
+                             int fecha_infraccion, int aviso_observado, int aviso_permitido,
+                             int &cantidad_multas_registradas, double &total_multas_acumuladas) {
     
     // Registrar la fecha del evento.
     infracciones[cantidad_infracciones].fecha_evento = retornar_estructura_fecha(fecha_infraccion);
@@ -502,9 +502,9 @@ void actualizar_infracciones(struct Infraccion *infracciones, int &cantidad_infr
 
 // Módulo que procesa los eventos de una zona: identifica al dron e incrementa su lista de infracciones.
 void procesar_eventos_de_una_zona(struct DroneDeVelocidad *drones_velocidad,
-                                int n_drones_velocidad, struct DroneSemaforo *drones_semaforo, int n_drones_semaforo,
-                                struct DroneEstacionamiento *drones_estacionamiento, int n_drones_estacionamiento,
-                                int &cantidad_multas_registradas, double &total_multas_acumuladas, ifstream &input) {
+                                  int n_drones_velocidad, struct DroneSemaforo *drones_semaforo, int n_drones_semaforo,
+                                  struct DroneEstacionamiento *drones_estacionamiento, int n_drones_estacionamiento,
+                                  int &cantidad_multas_registradas, double &total_multas_acumuladas, ifstream &input) {
     int fecha_infraccion, aviso_observado, indice;
     char *id_leido, *placa;
     while(true) {
@@ -514,21 +514,21 @@ void procesar_eventos_de_una_zona(struct DroneDeVelocidad *drones_velocidad,
         // Buscar el dron en cada tipo y registrar infracción si se encuentra.
         if( encontrar_drone_velocidad(id_leido, drones_velocidad, n_drones_velocidad, indice) ) {
             actualizar_infracciones(drones_velocidad[indice].datos_drone.infracciones,
-                                                 drones_velocidad[indice].datos_drone.cantidad_infracciones,
-                                                 placa, fecha_infraccion, aviso_observado, drones_velocidad[indice].velocidad_maxima_permitida,
-                                                 cantidad_multas_registradas, total_multas_acumuladas);
+                                    drones_velocidad[indice].datos_drone.cantidad_infracciones,
+                                    placa, fecha_infraccion, aviso_observado, drones_velocidad[indice].velocidad_maxima_permitida,
+                                    cantidad_multas_registradas, total_multas_acumuladas);
         }
         if( encontrar_drone_semaforo(id_leido, drones_semaforo, n_drones_semaforo, indice) ) {
             actualizar_infracciones(drones_semaforo[indice].informacion_drone.infracciones,
-                                                 drones_semaforo[indice].informacion_drone.cantidad_infracciones,
-                                                 placa, fecha_infraccion, aviso_observado, drones_semaforo[indice].luz_roja,
-                                                 cantidad_multas_registradas, total_multas_acumuladas);
+                                    drones_semaforo[indice].informacion_drone.cantidad_infracciones,
+                                    placa, fecha_infraccion, aviso_observado, drones_semaforo[indice].luz_roja,
+                                    cantidad_multas_registradas, total_multas_acumuladas);
         }
         if( encontrar_drone_estacionamiento(id_leido, drones_estacionamiento, n_drones_estacionamiento, indice) ) {
             actualizar_infracciones(drones_estacionamiento[indice].info_drone.infracciones,
-                                                 drones_estacionamiento[indice].info_drone.cantidad_infracciones,
-                                                 placa, fecha_infraccion, aviso_observado, drones_estacionamiento[indice].zona_carga,
-                                                 cantidad_multas_registradas, total_multas_acumuladas);
+                                    drones_estacionamiento[indice].info_drone.cantidad_infracciones,
+                                    placa, fecha_infraccion, aviso_observado, drones_estacionamiento[indice].zona_carga,
+                                    cantidad_multas_registradas, total_multas_acumuladas);
         }
     }
 }
@@ -551,9 +551,9 @@ void procesar_eventos(const char *nombre_carpeta, struct Zona *arrZonas, int can
         
         // Procesar todos los eventos de una zona.
         procesar_eventos_de_una_zona(arrZonas[indice].drones_velocidad,arrZonas[indice].n_drones_velocidad,
-                                                             arrZonas[indice].drones_semaforo, arrZonas[indice].n_drones_semaforo,
-                                                             arrZonas[indice].drones_estacionamiento, arrZonas[indice].n_drones_estacionamiento,
-                                                             arrZonas[indice].cantidad_multas_registradas, arrZonas[indice].total_multas_acumuladas,input);
+                                     arrZonas[indice].drones_semaforo, arrZonas[indice].n_drones_semaforo,
+                                     arrZonas[indice].drones_estacionamiento, arrZonas[indice].n_drones_estacionamiento,
+                                     arrZonas[indice].cantidad_multas_registradas, arrZonas[indice].total_multas_acumuladas,input);
     }
 }
 
@@ -567,12 +567,12 @@ void procesar_eventos(const char *nombre_carpeta, struct Zona *arrZonas, int can
 
 // Módulo que lee una línea de datos de un drone desde el archivo "Drones_<ZONA>.csv".
 void leer_datos_de_un_drone(char *&tipo_de_drone, char *&id, char *&ubicacion,
-                                                     int &capacidad_de_almacenamiento, int &aviso, ifstream &input) {
+                            int &capacidad_de_almacenamiento, int &aviso, ifstream &input) {
     tipo_de_drone = leer_cadena(input, ',');
     if(tipo_de_drone == nullptr) return;  // Si no hay datos más datos para leer en el archivo, entonces salir del módulo.
-    id = leer_cadena(input, ',');   // Leer el ID del dron.
+    id = leer_cadena(input, ',');         // Leer el ID del dron.
     ubicacion = leer_cadena(input, ',');  // Leer la ubicación del dron.
-    capacidad_de_almacenamiento = leer_dato_int(input);  // Lee la capacidad del dron (entero)
+    capacidad_de_almacenamiento = leer_dato_int(input);  // Leer la capacidad del dron (entero).
     
     if(strcmp(tipo_de_drone, "Velocidad") == 0) {
         // El tipo del drone es "Velocidad",entonces el siguiente dato a leer es un número entero (velocidad máxima permitida).
@@ -614,8 +614,8 @@ void completar_campo_estructura_drone(struct Drone &un_drone, char *id, char *ub
 
 // Módulo que lee todos los drones de un archivo "Drones_<ZONA>.csv" y los separa por tipo en sus respectivos arreglos.
 void cargar_datos_de_un_drone(struct DroneDeVelocidad *drones_velocidad, int &n_drones_velocidad,
-                                                         struct DroneSemaforo *drones_semaforo, int &n_drones_semaforo,
-                                                         struct DroneEstacionamiento *drones_estacionamiento, int &n_drones_estacionamiento,ifstream &input) {
+                              struct DroneSemaforo *drones_semaforo, int &n_drones_semaforo,
+                              struct DroneEstacionamiento *drones_estacionamiento, int &n_drones_estacionamiento,ifstream &input) {
     // Inicializar los contadores de drones a cero.
     n_drones_velocidad = n_drones_semaforo = n_drones_estacionamiento = 0;
     
@@ -660,8 +660,8 @@ void procesar_drones(const char *nombre_carpeta, struct Zona *arrZonas, int cant
         
         // Cargar los drones de esa zona.
         cargar_datos_de_un_drone(arrZonas[indice].drones_velocidad,arrZonas[indice].n_drones_velocidad,
-                                                     arrZonas[indice].drones_semaforo, arrZonas[indice].n_drones_semaforo,
-                                                     arrZonas[indice].drones_estacionamiento, arrZonas[indice].n_drones_estacionamiento,input);
+                                 arrZonas[indice].drones_semaforo, arrZonas[indice].n_drones_semaforo,
+                                 arrZonas[indice].drones_estacionamiento, arrZonas[indice].n_drones_estacionamiento,input);
     }
 }
 
