@@ -1,0 +1,922 @@
+                                   MINISTERIO DE TRANSPORTES
+                                  LISTADO DE DRONES POR ZONA
+===============================================================================================
+                                INFORMACION DE LA ZONA DE LIMA
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV050     Avenida A         5                 3                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/12/2025        PLT-100      Grave           428.00          15/01/2026
+            2)    15/12/2025        PLT-100      Grave           428.00          15/01/2026
+            3)    15/12/2025        PLT-100      Grave           428.00          15/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV419     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV618     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV974     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-109      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS253     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/12/2025        PLT-101      Leve            267.50          15/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS461     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS318     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-107      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE190     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/12/2025        PLT-102      Grave           428.00          15/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE686     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE999     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 12                  TOTAL DE MULTAS ACUMULADAS: 4815.00
+
+===============================================================================================
+                              INFORMACION DE LA ZONA DE AREQUIPA
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV253     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV481     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    14/09/2025        PLT-103      Leve            267.50          14/10/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV252     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    05/08/2025        PLT-106      Grave           428.00          05/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV044     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    25/07/2025        PLT-109      Leve            267.50          25/08/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS714     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    12/07/2025        PLT-101      Grave           428.00          12/08/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS799     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    14/06/2025        PLT-104      Leve            267.50          14/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS203     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/09/2025        PLT-107      Grave           428.00          15/10/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE746     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/08/2025        PLT-102      Grave           428.00          13/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE960     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/07/2025        PLT-105      Grave           428.00          13/08/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE243     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    25/06/2025        PLT-108      Grave           428.00          25/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 10                  TOTAL DE MULTAS ACUMULADAS: 3798.50
+
+===============================================================================================
+                                INFORMACION DE LA ZONA DE CUSCO
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV753     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV276     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV001     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV317     Avenida J         5                 0                      60
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS652     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS731     Avenida E        10                 0                SI
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS604     Avenida H        10                 0                SI
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE752     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE514     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE375     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 7                  TOTAL DE MULTAS ACUMULADAS: 2996.00
+
+===============================================================================================
+                              INFORMACION DE LA ZONA DE TRUJILLO
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV696     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV676     Avenida D         5                 0                      60
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV195     Avenida G         5                 0                      60
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV839     Avenida J         5                 0                      60
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS111     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS339     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS023     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-107      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE987     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE142     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE959     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 7                  TOTAL DE MULTAS ACUMULADAS: 2675.00
+
+===============================================================================================
+                                INFORMACION DE LA ZONA DE PIURA
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV054     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV044     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV132     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV563     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-109      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS639     Avenida B        10                 0                SI
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS764     Avenida E        10                 0                SI
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS615     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-107      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE994     Avenida C        15                 0                  NO
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE304     Avenida F        15                 0                  NO
+     ------------------------------------------------------------------------------------------
+                            NO EXISTE ALGUNA INFRACCION COMETIDA
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE874     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 6                  TOTAL DE MULTAS ACUMULADAS: 2568.00
+
+===============================================================================================
+                              INFORMACION DE LA ZONA DE CHICLAYO
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV326     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV572     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV588     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV306     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-109      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS071     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS609     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS863     Avenida H        10                 3                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-107      Grave           428.00          15/07/2025
+            2)    15/06/2025        PLT-107      Leve            267.50          15/07/2025
+            3)    15/06/2025        PLT-107      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE679     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE172     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE885     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 12                  TOTAL DE MULTAS ACUMULADAS: 4654.50
+
+===============================================================================================
+                               INFORMACION DE LA ZONA DE IQUITOS
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV187     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV661     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV371     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV670     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    30/12/2025        PLT-109      Grave           428.00          30/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS852     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS994     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS524     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/12/2025        PLT-107      Grave           428.00          15/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE830     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE618     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE621     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    25/12/2025        PLT-108      Grave           428.00          25/01/2026
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 10                  TOTAL DE MULTAS ACUMULADAS: 3959.00
+
+===============================================================================================
+                                INFORMACION DE LA ZONA DE TACNA
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV512     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV024     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV902     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-106      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV625     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-109      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS620     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS333     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS569     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-107      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE567     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE027     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-105      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE105     Avenida I        15                 5                  SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-108      Leve            267.50          15/07/2025
+            2)    15/06/2025        PLT-108      Leve            267.50          15/07/2025
+            3)    15/06/2025        PLT-108      Leve            267.50          15/07/2025
+            4)    15/06/2025        PLT-108      Leve            267.50          15/07/2025
+            5)    15/06/2025        PLT-108      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 14                  TOTAL DE MULTAS ACUMULADAS: 4868.50
+
+===============================================================================================
+                                INFORMACION DE LA ZONA DE PUNO
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV001     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/06/2024        PLT-100      Grave           428.00          13/07/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV621     Avenida D         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/07/2024        PLT-103      Grave           428.00          13/08/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV573     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/08/2025        PLT-106      Grave           428.00          13/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV081     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    18/08/2025        PLT-109      Grave           428.00          18/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS473     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/06/2024        PLT-101      Grave           428.00          13/07/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS849     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/07/2024        PLT-104      Grave           428.00          13/08/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS834     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    18/08/2025        PLT-107      Grave           428.00          18/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE467     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/07/2024        PLT-102      Grave           428.00          13/08/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE033     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    13/07/2024        PLT-105      Grave           428.00          13/08/2024
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE526     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    18/08/2025        PLT-108      Grave           428.00          18/09/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 10                  TOTAL DE MULTAS ACUMULADAS: 4280.00
+
+===============================================================================================
+                              INFORMACION DE LA ZONA DE HUANCAYO
+===============================================================================================
+DRONES DE VELOCIDAD:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      1)   DV105     Avenida A         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-100      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      2)   DV264     Avenida D         5                 3                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-103      Grave           428.00          15/07/2025
+            2)    16/06/2025        PLT-103      Grave           428.00          16/07/2025
+            3)    16/06/2025        PLT-103      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      3)   DV836     Avenida G         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    16/06/2025        PLT-106      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES     VELOCIDAD MAX. PERMITIDA
+      4)   DV305     Avenida J         5                 1                      60
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    16/06/2025        PLT-109      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE SEMAFORO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      1)   DS016     Avenida B        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-101      Leve            267.50          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      2)   DS113     Avenida E        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-104      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      LUZ ROJA
+      3)   DS439     Avenida H        10                 1                SI
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    16/06/2025        PLT-107      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+DRONES DE ESTACIONAMIENTO:
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      1)   DE077     Avenida C        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    15/06/2025        PLT-102      Grave           428.00          15/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      2)   DE703     Avenida F        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    16/06/2025        PLT-105      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+     No.    ID       UBICACION     CAPACIDAD     No. INFRACCIONES      ZONA DE CARGA
+      3)   DE725     Avenida I        15                 1                  NO
+     ------------------------------------------------------------------------------------------
+     INFORMACION DE LAS INFRACCIONES:
+           No.  FECHA INFRACCION     PLACA      GRAVEDAD      MULTA A PAGAR     FECHA A PAGAR
+            1)    16/06/2025        PLT-108      Grave           428.00          16/07/2025
+     //////////////////////////////////////////////////////////////////////////////////////////
+
+***********************************************************************************************
+CANTIDAD DE MULTAS REGISTRADAS: 12                  TOTAL DE MULTAS ACUMULADAS: 4975.50
+
