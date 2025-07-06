@@ -427,7 +427,7 @@ int buscar_indice_final(int n_palabra, int indice_inicial, const char *comentari
 
 
 // Módulo que copia los caracteres de una palabra desde el comentario original.
-char *copiar_palabra(const char *comentario, int indice_inicial, int indice_final, char *&palabra_extraida) {
+void copiar_palabra(const char *comentario, int indice_inicial, int indice_final, char *&palabra_extraida) {
     char palabra_a_copiar[20];
     int indice_comentario = indice_inicial, indice_palabra = 0;
 
@@ -441,7 +441,7 @@ char *copiar_palabra(const char *comentario, int indice_inicial, int indice_fina
     // Agregar el caracter nulo al final de la cadena de caracteres "palabra_a_copiar".
     palabra_a_copiar[indice_palabra] = '\0';
 
-    // Se asigna a la cadena "palabra_extraida" la palabra copiada "palabra_a_copiar" y se retorna.
+    // Se asigna a la cadena "palabra_extraida" la palabra copiada "palabra_a_copiar".
     palabra_extraida = asignar_cadena(palabra_a_copiar);
     return palabra_extraida;
 }
