@@ -691,7 +691,7 @@ void pasar_todo_a_mayusculas(char *cadena) {
     for(int indice = 0; cadena[indice]; indice++) {
         if(cadena[indice] >= 'a'  and  cadena[indice] <= 'z') {
             // cadena[indice] = cadena[indice] - ('a' - 'A')
-            cadena[indice] -= 32; // 32 es igual al codigo ASCCI de la diferencia de ('a' - 'A')
+            cadena[indice] -= 32; // 32 es igual al codigo ASCII de la diferencia de ('a' - 'A')
         }
     }
 }
