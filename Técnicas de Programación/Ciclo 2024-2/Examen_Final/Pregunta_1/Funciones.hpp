@@ -40,7 +40,7 @@ int contar_palabras(const char *comentario);
 void extraer_palabra(const char *comentario, int n_palabra, char *&palabra_extraida);
 int buscar_inicio_de_la_palabra(int n_palabra, const char *comentario);
 int buscar_indice_final(int n_palabra, int indice_inicial, const char *comentario);
-char *copiar_palabra(const char *comentario, int indice_inicial, int indice_final, char *&palabra_extraida);
+void copiar_palabra(const char *comentario, int indice_inicial, int indice_final, char *&palabra_extraida);
 int buscar_lexicon(const char *palabra_extraida, struct Palabra *lexicon, int cantPlabrasEnLexicon);
 void calcular_polaridad_total(struct Palabra *palabras, int cantidad_palabras, int &polaridad_total);
 void emitir_reporte(const char *nombre_archivo, struct Atencion *atenciones, int cantAtenciones);
