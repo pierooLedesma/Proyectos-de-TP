@@ -443,7 +443,6 @@ void copiar_palabra(const char *comentario, int indice_inicial, int indice_final
 
     // Se asigna a la cadena "palabra_extraida" la palabra copiada "palabra_a_copiar".
     palabra_extraida = asignar_cadena(palabra_a_copiar);
-    return palabra_extraida;
 }
 
 
