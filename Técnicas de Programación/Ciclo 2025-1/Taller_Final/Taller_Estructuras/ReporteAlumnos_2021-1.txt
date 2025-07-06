@@ -1,0 +1,676 @@
+                                      INSTITUCION EDUCATIVA TP
+                                DETALLE DE PAGO REALIZADO POR CICLO
+                                           CICLO: 2021-1
+====================================================================================================
+ALUMNO: 20218376 - LANDA PISCOYA CHRISTIAN                    ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481239 - Estado Solido                                          4.25             744.98
+02)  481218 - Fisica Moderna                                         5.25             920.27
+03)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75             832.63
+04)  109238 - Redes De Computadoras                                  5.00             876.45
+05)  481220 - Tecnicas Computacionales En Fisica                     3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 23.00             TOTAL MONTO PAGADO: 4031.67
+====================================================================================================
+ALUMNO: 20215248 - MEJIA HUAYANAY CHRISTIAN ALONSO            ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481203 - Fisica 4                                               4.25             744.98
+02)  231292 - Introduccion Al Diseno De Maquinas                     2.75             482.05
+03)  231270 - Procesos De Manufactura                                5.75            1007.92
+04)  109248 - Sistemas De Informacion 1                              3.25             569.69
+05)  481219 - Sistemas Electromagneticos Y Optoelectronicos          3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 19.25             TOTAL MONTO PAGADO: 3374.33
+====================================================================================================
+ALUMNO: 20221316 - RAFFO CHUNG ADRIA GLORIA                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375219 - Herramientas Matematicas                               2.25             394.40
+02)  231283 - Laboratorio De Introduccion Al Diseno De Maquinas      3.75             657.34
+03)  109248 - Sistemas De Informacion 1                              3.25             569.69
+04)  109250 - Sistemas De Informacion 2                              4.75             832.63
+05)  231286 - Transferencia De Calor                                 3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 17.25             TOTAL MONTO PAGADO: 3023.75
+====================================================================================================
+ALUMNO: 20205830 - FERNANDEZ ORTEGA ELIZABETH ELIZABETH       ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231270 - Procesos De Manufactura                                5.75            1007.92
+02)  481219 - Sistemas Electromagneticos Y Optoelectronicos          3.25             569.69
+03)  231286 - Transferencia De Calor                                 3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 12.25             TOTAL MONTO PAGADO: 2147.30
+====================================================================================================
+ALUMNO: 20202687 - MORALES VALVERDE INES MARTHA               ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             569.69
+02)  375781 - Matematica Computacional Para Control                  4.75             832.63
+03)  481230 - Teoria De Campos Electromagneticos                     3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 11.75             TOTAL MONTO PAGADO: 2059.66
+====================================================================================================
+ALUMNO: 20197480 - CERNA HIJAR JOSE ROLANDO                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375219 - Herramientas Matematicas                               2.25             394.40
+02)  109281 - Lenguaje De Programacion 1                             3.25             569.69
+03)  231270 - Procesos De Manufactura                                5.75            1007.92
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 11.25             TOTAL MONTO PAGADO: 1972.01
+====================================================================================================
+ALUMNO: 20205844 - VILLA YALLICO TATIANA NANCY                ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481239 - Estado Solido                                          4.25             744.98
+02)  231283 - Laboratorio De Introduccion Al Diseno De Maquinas      3.75             657.34
+03)  231289 - Turbomaquinas Y Maquinas De Desplazamiento Positivo    3.00             525.87
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 11.00             TOTAL MONTO PAGADO: 1928.19
+====================================================================================================
+ALUMNO: 20193984 - PAREDES PATINO CHRISTIAN                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             482.05
+02)  481247 - Optica Y Fotonica                                      3.75             657.34
+03)  481247 - Optica Y Fotonica                                      3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 10.25             TOTAL MONTO PAGADO: 1796.72
+====================================================================================================
+ALUMNO: 20219990 - ACUNA YINO ROCIO YOLANDA                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231209 - Mecanica De Fluidos                                    3.75             657.34
+02)  481208 - Temas De Fisica General                                3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.50             TOTAL MONTO PAGADO: 1314.67
+====================================================================================================
+ALUMNO: 20229400 - DELGADO GONZALES GUILLERMO ALFONSO         ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481227 - Particulas Elementales                                 4.00             701.16
+02)  231286 - Transferencia De Calor                                 3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.25             TOTAL MONTO PAGADO: 1270.85
+====================================================================================================
+ALUMNO: 20194050 - CORRALES TSUKAZAN IRMA LOURDES             ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             569.69
+02)  481208 - Temas De Fisica General                                3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.00             TOTAL MONTO PAGADO: 1227.03
+====================================================================================================
+ALUMNO: 20217328 - ALAMO PAIRAZAMAN MIGUEL ROBERTO            ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             569.69
+02)  481230 - Teoria De Campos Electromagneticos                     3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.00             TOTAL MONTO PAGADO: 1227.03
+====================================================================================================
+ALUMNO: 20224165 - MIYAKE MEREL MADELEINE YLIANA              ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109220 - Fundamentos De Programacion                            3.25             569.69
+02)  231292 - Introduccion Al Diseno De Maquinas                     2.75             482.05
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 6.00             TOTAL MONTO PAGADO: 1051.74
+====================================================================================================
+ALUMNO: 20193573 - ASMAD ACUNA ANNIE OFELIA                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375781 - Matematica Computacional Para Control                  4.75             832.63
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.75             TOTAL MONTO PAGADO: 832.63
+====================================================================================================
+ALUMNO: 20195244 - CORTEZ SEGURA CARMELA INES                 ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109245 - Ingenieria De Software                                 4.25             744.98
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.25             TOTAL MONTO PAGADO: 744.98
+====================================================================================================
+ALUMNO: 20236905 - LAURA WONG MELVIN HENRRY                   ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481220 - Tecnicas Computacionales En Fisica                     3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.75             TOTAL MONTO PAGADO: 657.34
+====================================================================================================
+ALUMNO: 20208175 - HIJAR YEP WILLIAMS CHRISTIAN               ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481247 - Optica Y Fotonica                                      3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.75             TOTAL MONTO PAGADO: 657.34
+====================================================================================================
+ALUMNO: 20197155 - JUSTINO CRUZ WILLIAMS                      ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481229 - Trabajo De Investigacion                               3.75             657.34
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.75             TOTAL MONTO PAGADO: 657.34
+====================================================================================================
+ALUMNO: 20238549 - JUSTINO FORZANI ERICKA VICTORIA            ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109220 - Fundamentos De Programacion                            3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.25             TOTAL MONTO PAGADO: 569.69
+====================================================================================================
+ALUMNO: 20195764 - CALIXTO TOMASICHE MONICA DORIS             ESCALA: A       Valor Credito: 175.29
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109248 - Sistemas De Informacion 1                              3.25             569.69
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.25             TOTAL MONTO PAGADO: 569.69
+====================================================================================================
+ALUMNO: 20198608 - GORDILLO YINO YVONNE ROSARIO               ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109246 - Bases De Datos                                         4.75            1020.44
+02)  375241 - Metodos Numericos En Ingenieria                        5.75            1235.27
+03)  231270 - Procesos De Manufactura                                5.75            1235.27
+04)  109238 - Redes De Computadoras                                  5.00            1074.15
+05)  231286 - Transferencia De Calor                                 3.25             698.20
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 24.50             TOTAL MONTO PAGADO: 5263.34
+====================================================================================================
+ALUMNO: 20208940 - BARRIOS TOMASICHE CARLOS ALBERTO           ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109245 - Ingenieria De Software                                 4.25             913.03
+02)  481248 - Mecanica Clasica 1                                     4.00             859.32
+03)  231270 - Procesos De Manufactura                                5.75            1235.27
+04)  109248 - Sistemas De Informacion 1                              3.25             698.20
+05)  109248 - Sistemas De Informacion 1                              3.25             698.20
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 20.50             TOTAL MONTO PAGADO: 4404.02
+====================================================================================================
+ALUMNO: 20233583 - PALOMARES VERA HENRRY HUMBERTO             ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109282 - Lenguaje De Programacion 2                             4.25             913.03
+02)  109239 - Sistemas Operativos                                    4.25             913.03
+03)  481230 - Teoria De Campos Electromagneticos                     3.75             805.61
+04)  481230 - Teoria De Campos Electromagneticos                     3.75             805.61
+05)  231286 - Transferencia De Calor                                 3.25             698.20
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 19.25             TOTAL MONTO PAGADO: 4135.48
+====================================================================================================
+ALUMNO: 20211892 - GONZALES ARIAS HENRY                       ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             698.20
+02)  481203 - Fisica 4                                               4.25             913.03
+03)  109281 - Lenguaje De Programacion 1                             3.25             698.20
+04)  481208 - Temas De Fisica General                                3.75             805.61
+05)  481229 - Trabajo De Investigacion                               3.75             805.61
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.25             TOTAL MONTO PAGADO: 3920.65
+====================================================================================================
+ALUMNO: 20221873 - HENRIQUEZ PORTUGAL ALEX                    ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481218 - Fisica Moderna                                         5.25            1127.86
+02)  109238 - Redes De Computadoras                                  5.00            1074.15
+03)  231286 - Transferencia De Calor                                 3.25             698.20
+04)  231289 - Turbomaquinas Y Maquinas De Desplazamiento Positivo    3.00             644.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 16.50             TOTAL MONTO PAGADO: 3544.70
+====================================================================================================
+ALUMNO: 20193769 - NORABUENA PRECIADO CINTHIA                 ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25             913.03
+02)  109263 - Algoritmia                                             4.25             913.03
+03)  109246 - Bases De Datos                                         4.75            1020.44
+04)  481219 - Sistemas Electromagneticos Y Optoelectronicos          3.25             698.20
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 16.50             TOTAL MONTO PAGADO: 3544.70
+====================================================================================================
+ALUMNO: 20236102 - SALAS AGUERO DANIEL                        ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             590.78
+02)  481248 - Mecanica Clasica 1                                     4.00             859.32
+03)  481248 - Mecanica Clasica 1                                     4.00             859.32
+04)  109238 - Redes De Computadoras                                  5.00            1074.15
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 15.75             TOTAL MONTO PAGADO: 3383.57
+====================================================================================================
+ALUMNO: 20196536 - BENAVENTE AYALA VIRGINIA IRMA              ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109282 - Lenguaje De Programacion 2                             4.25             913.03
+02)  109282 - Lenguaje De Programacion 2                             4.25             913.03
+03)  481219 - Sistemas Electromagneticos Y Optoelectronicos          3.25             698.20
+04)  481220 - Tecnicas Computacionales En Fisica                     3.75             805.61
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 15.50             TOTAL MONTO PAGADO: 3329.87
+====================================================================================================
+ALUMNO: 20236453 - ARCA AMEZQUITA EDRIC RONALD                ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481203 - Fisica 4                                               4.25             913.03
+02)  231209 - Mecanica De Fluidos                                    3.75             805.61
+03)  109248 - Sistemas De Informacion 1                              3.25             698.20
+04)  231286 - Transferencia De Calor                                 3.25             698.20
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 14.50             TOTAL MONTO PAGADO: 3115.04
+====================================================================================================
+ALUMNO: 20197378 - VILLEGAS PALOMINO DORIS FREYSA             ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             590.78
+02)  481248 - Mecanica Clasica 1                                     4.00             859.32
+03)  481208 - Temas De Fisica General                                3.75             805.61
+04)  481229 - Trabajo De Investigacion                               3.75             805.61
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 14.25             TOTAL MONTO PAGADO: 3061.33
+====================================================================================================
+ALUMNO: 20202031 - AQUINO TORO VALENTINA ROCIO                ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109245 - Ingenieria De Software                                 4.25             913.03
+02)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75            1020.44
+03)  481220 - Tecnicas Computacionales En Fisica                     3.75             805.61
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 12.75             TOTAL MONTO PAGADO: 2739.08
+====================================================================================================
+ALUMNO: 20222575 - YOSHINARI RIVERA PAUL                      ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109281 - Lenguaje De Programacion 1                             3.25             698.20
+02)  109282 - Lenguaje De Programacion 2                             4.25             913.03
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.50             TOTAL MONTO PAGADO: 1611.23
+====================================================================================================
+ALUMNO: 20218255 - MEJIA DIAZ BLANCA MILAGROS                 ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109220 - Fundamentos De Programacion                            3.25             698.20
+02)  375219 - Herramientas Matematicas                               2.25             483.37
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 5.50             TOTAL MONTO PAGADO: 1181.57
+====================================================================================================
+ALUMNO: 20226455 - HENRIQUEZ ESPINO BEATRIZ                   ESCALA: B       Valor Credito: 214.83
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109250 - Sistemas De Informacion 2                              4.75            1020.44
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.75             TOTAL MONTO PAGADO: 1020.44
+====================================================================================================
+ALUMNO: 20238246 - RUIZ GORDILLO CAROLA ERIKA                 ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1095.35
+02)  375781 - Matematica Computacional Para Control                  4.75            1224.22
+03)  231270 - Procesos De Manufactura                                5.75            1481.95
+04)  109238 - Redes De Computadoras                                  5.00            1288.65
+05)  481208 - Temas De Fisica General                                3.75             966.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 23.50             TOTAL MONTO PAGADO: 6056.66
+====================================================================================================
+ALUMNO: 20198237 - CASTRO SUAREZ ROLANDO                      ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             837.62
+02)  481227 - Particulas Elementales                                 4.00            1030.92
+03)  481227 - Particulas Elementales                                 4.00            1030.92
+04)  481220 - Tecnicas Computacionales En Fisica                     3.75             966.49
+05)  481230 - Teoria De Campos Electromagneticos                     3.75             966.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.75             TOTAL MONTO PAGADO: 4832.44
+====================================================================================================
+ALUMNO: 20208971 - SUAREZ BOLANOS RAFAEL                      ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1095.35
+02)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75            1224.22
+03)  109281 - Lenguaje De Programacion 1                             3.25             837.62
+04)  231270 - Procesos De Manufactura                                5.75            1481.95
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.00             TOTAL MONTO PAGADO: 4639.14
+====================================================================================================
+ALUMNO: 20226271 - VELASQUEZ HUAYANAY EDGARD HENRY            ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             708.76
+02)  109281 - Lenguaje De Programacion 1                             3.25             837.62
+03)  109239 - Sistemas Operativos                                    4.25            1095.35
+04)  231206 - Termodinamica 1                                        2.75             708.76
+05)  481229 - Trabajo De Investigacion                               3.75             966.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 16.75             TOTAL MONTO PAGADO: 4316.98
+====================================================================================================
+ALUMNO: 20193012 - DE LA CUBA ALBERTO PAIRAZAMAN              ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481203 - Fisica 4                                               4.25            1095.35
+02)  231292 - Introduccion Al Diseno De Maquinas                     2.75             708.76
+03)  109238 - Redes De Computadoras                                  5.00            1288.65
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 12.00             TOTAL MONTO PAGADO: 3092.76
+====================================================================================================
+ALUMNO: 20193373 - VASQUEZ PAZ ALEX MARTIN                    ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109281 - Lenguaje De Programacion 1                             3.25             837.62
+02)  481248 - Mecanica Clasica 1                                     4.00            1030.92
+03)  231206 - Termodinamica 1                                        2.75             708.76
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 10.00             TOTAL MONTO PAGADO: 2577.30
+====================================================================================================
+ALUMNO: 20212697 - RETAMOSO BARRERA OSCAR                     ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             708.76
+02)  481230 - Teoria De Campos Electromagneticos                     3.75             966.49
+03)  231206 - Termodinamica 1                                        2.75             708.76
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 9.25             TOTAL MONTO PAGADO: 2384.00
+====================================================================================================
+ALUMNO: 20225162 - PISCOYA BRAVO CESAR BRUNO                  ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109250 - Sistemas De Informacion 2                              4.75            1224.22
+02)  481220 - Tecnicas Computacionales En Fisica                     3.75             966.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 8.50             TOTAL MONTO PAGADO: 2190.70
+====================================================================================================
+ALUMNO: 20192298 - CORREA VIZCARDO MIGUEL                     ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109281 - Lenguaje De Programacion 1                             3.25             837.62
+02)  481227 - Particulas Elementales                                 4.00            1030.92
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.25             TOTAL MONTO PAGADO: 1868.54
+====================================================================================================
+ALUMNO: 20193490 - CORONADO FIGUEROA JOHAN                    ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231206 - Termodinamica 1                                        2.75             708.76
+02)  481229 - Trabajo De Investigacion                               3.75             966.49
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 6.50             TOTAL MONTO PAGADO: 1675.25
+====================================================================================================
+ALUMNO: 20219566 - MEDINA VELASQUEZ MILENA JENNY              ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109250 - Sistemas De Informacion 2                              4.75            1224.22
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.75             TOTAL MONTO PAGADO: 1224.22
+====================================================================================================
+ALUMNO: 20207053 - LOZADA YINO MARTHA                         ESCALA: C       Valor Credito: 257.73
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109248 - Sistemas De Informacion 1                              3.25             837.62
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.25             TOTAL MONTO PAGADO: 837.62
+====================================================================================================
+ALUMNO: 20191754 - MOYA ARANDA JOHNNY                         ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             981.99
+02)  481248 - Mecanica Clasica 1                                     4.00            1208.60
+03)  375241 - Metodos Numericos En Ingenieria                        5.75            1737.36
+04)  109250 - Sistemas De Informacion 2                              4.75            1435.21
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 17.75             TOTAL MONTO PAGADO: 5363.16
+====================================================================================================
+ALUMNO: 20197374 - VILCARA CORREA VICTOR                      ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231292 - Introduccion Al Diseno De Maquinas                     2.75             830.91
+02)  231209 - Mecanica De Fluidos                                    3.75            1133.06
+03)  109248 - Sistemas De Informacion 1                              3.25             981.99
+04)  481208 - Temas De Fisica General                                3.75            1133.06
+05)  481230 - Teoria De Campos Electromagneticos                     3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 17.25             TOTAL MONTO PAGADO: 5212.09
+====================================================================================================
+ALUMNO: 20193891 - CAMACHO AGUERO ELIA ROSA                   ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1284.14
+02)  481203 - Fisica 4                                               4.25            1284.14
+03)  109238 - Redes De Computadoras                                  5.00            1510.75
+04)  481229 - Trabajo De Investigacion                               3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 17.25             TOTAL MONTO PAGADO: 5212.09
+====================================================================================================
+ALUMNO: 20237059 - CALDERON ORTEGA GUILLERMO                  ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375219 - Herramientas Matematicas                               2.25             679.84
+02)  109250 - Sistemas De Informacion 2                              4.75            1435.21
+03)  109239 - Sistemas Operativos                                    4.25            1284.14
+04)  481230 - Teoria De Campos Electromagneticos                     3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 15.00             TOTAL MONTO PAGADO: 4532.25
+====================================================================================================
+ALUMNO: 20209968 - PRADO VERGEL CARLOS JULIAN                 ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109246 - Bases De Datos                                         4.75            1435.21
+02)  481218 - Fisica Moderna                                         5.25            1586.29
+03)  481227 - Particulas Elementales                                 4.00            1208.60
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 14.00             TOTAL MONTO PAGADO: 4230.10
+====================================================================================================
+ALUMNO: 20196245 - VEGA MUNOZ GONZALO                         ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1284.14
+02)  481218 - Fisica Moderna                                         5.25            1586.29
+03)  231286 - Transferencia De Calor                                 3.25             981.99
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 12.75             TOTAL MONTO PAGADO: 3852.41
+====================================================================================================
+ALUMNO: 20216619 - IBEROS VALDERRAMA RAFAEL                   ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25             981.99
+02)  231373 - Metrologia                                             2.75             830.91
+03)  231270 - Procesos De Manufactura                                5.75            1737.36
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 11.75             TOTAL MONTO PAGADO: 3550.26
+====================================================================================================
+ALUMNO: 20235440 - PORTUGAL BENAVENTE JOHANA GLORIA           ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481239 - Estado Solido                                          4.25            1284.14
+02)  109248 - Sistemas De Informacion 1                              3.25             981.99
+03)  231206 - Termodinamica 1                                        2.75             830.91
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 10.25             TOTAL MONTO PAGADO: 3097.04
+====================================================================================================
+ALUMNO: 20218679 - AURIS ZIMIC JAVIER DANIEL                  ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231209 - Mecanica De Fluidos                                    3.75            1133.06
+02)  231270 - Procesos De Manufactura                                5.75            1737.36
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 9.50             TOTAL MONTO PAGADO: 2870.42
+====================================================================================================
+ALUMNO: 20197557 - CARO POLO SANDRO                           ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375241 - Metodos Numericos En Ingenieria                        5.75            1737.36
+02)  231206 - Termodinamica 1                                        2.75             830.91
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 8.50             TOTAL MONTO PAGADO: 2568.28
+====================================================================================================
+ALUMNO: 20227724 - CORONEL CHUMPITAZ HELI                     ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375781 - Matematica Computacional Para Control                  4.75            1435.21
+02)  231286 - Transferencia De Calor                                 3.25             981.99
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 8.00             TOTAL MONTO PAGADO: 2417.20
+====================================================================================================
+ALUMNO: 20202756 - PRADO FALCON EDGAR RICHARD                 ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481220 - Tecnicas Computacionales En Fisica                     3.75            1133.06
+02)  481208 - Temas De Fisica General                                3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.50             TOTAL MONTO PAGADO: 2266.12
+====================================================================================================
+ALUMNO: 20205864 - MALDONADO FLORIAN JOHANA                   ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109220 - Fundamentos De Programacion                            3.25             981.99
+02)  481247 - Optica Y Fotonica                                      3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.00             TOTAL MONTO PAGADO: 2115.05
+====================================================================================================
+ALUMNO: 20198434 - CHAVEZ PRADO SILVANA                       ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481239 - Estado Solido                                          4.25            1284.14
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.25             TOTAL MONTO PAGADO: 1284.14
+====================================================================================================
+ALUMNO: 20195340 - CERNA DURAND MARTIN                        ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481247 - Optica Y Fotonica                                      3.75            1133.06
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.75             TOTAL MONTO PAGADO: 1133.06
+====================================================================================================
+ALUMNO: 20227341 - DIAZ ANTEZANO MAGALI SILVANA               ESCALA: D       Valor Credito: 302.15
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231206 - Termodinamica 1                                        2.75             830.91
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 2.75             TOTAL MONTO PAGADO: 830.91
+====================================================================================================
+ALUMNO: 20213075 - FLORIAN MORALES YDALI                      ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109246 - Bases De Datos                                         4.75            1574.96
+02)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75            1574.96
+03)  109282 - Lenguaje De Programacion 2                             4.25            1409.17
+04)  481227 - Particulas Elementales                                 4.00            1326.28
+05)  109248 - Sistemas De Informacion 1                              3.25            1077.60
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 21.00             TOTAL MONTO PAGADO: 6962.97
+====================================================================================================
+ALUMNO: 20198922 - PAIRAZAMAN ALAMO MOISES MIGUEL             ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375218 - Ecuaciones Diferenciales Aplicadas                     3.25            1077.60
+02)  481239 - Estado Solido                                          4.25            1409.17
+03)  109245 - Ingenieria De Software                                 4.25            1409.17
+04)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75            1574.96
+05)  231373 - Metrologia                                             2.75             911.82
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 19.25             TOTAL MONTO PAGADO: 6382.72
+====================================================================================================
+ALUMNO: 20198069 - AMEZQUITA EPIQUEN EVERT ROBERTO            ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375219 - Herramientas Matematicas                               2.25             746.03
+02)  231292 - Introduccion Al Diseno De Maquinas                     2.75             911.82
+03)  481227 - Particulas Elementales                                 4.00            1326.28
+04)  109238 - Redes De Computadoras                                  5.00            1657.85
+05)  109250 - Sistemas De Informacion 2                              4.75            1574.96
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.75             TOTAL MONTO PAGADO: 6216.94
+====================================================================================================
+ALUMNO: 20207741 - CABRERA CANALES GUILLERMO EDRIC            ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481239 - Estado Solido                                          4.25            1409.17
+02)  109281 - Lenguaje De Programacion 1                             3.25            1077.60
+03)  481227 - Particulas Elementales                                 4.00            1326.28
+04)  481230 - Teoria De Campos Electromagneticos                     3.75            1243.39
+05)  231289 - Turbomaquinas Y Maquinas De Desplazamiento Positivo    3.00             994.71
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.25             TOTAL MONTO PAGADO: 6051.15
+====================================================================================================
+ALUMNO: 20224223 - PASQUEL QUIO SURAMI JANET                  ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1409.17
+02)  481239 - Estado Solido                                          4.25            1409.17
+03)  375241 - Metodos Numericos En Ingenieria                        5.75            1906.53
+04)  481220 - Tecnicas Computacionales En Fisica                     3.75            1243.39
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 18.00             TOTAL MONTO PAGADO: 5968.26
+====================================================================================================
+ALUMNO: 20233816 - VALVERDE BERROCAL RONY GONZALO             ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  375781 - Matematica Computacional Para Control                  4.75            1574.96
+02)  231209 - Mecanica De Fluidos                                    3.75            1243.39
+03)  109238 - Redes De Computadoras                                  5.00            1657.85
+04)  481229 - Trabajo De Investigacion                               3.75            1243.39
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 17.25             TOTAL MONTO PAGADO: 5719.58
+====================================================================================================
+ALUMNO: 20231152 - HIJAR PAIRAZAMAN JENNY DELICIA             ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109246 - Bases De Datos                                         4.75            1574.96
+02)  231283 - Laboratorio De Introduccion Al Diseno De Maquinas      3.75            1243.39
+03)  109250 - Sistemas De Informacion 2                              4.75            1574.96
+04)  481219 - Sistemas Electromagneticos Y Optoelectronicos          3.25            1077.60
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 16.50             TOTAL MONTO PAGADO: 5470.90
+====================================================================================================
+ALUMNO: 20198845 - LANDEO SUELDO ADOLFO                       ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1409.17
+02)  231269 - Laboratorio De Termodinamica Y Fluidos                 4.75            1574.96
+03)  231373 - Metrologia                                             2.75             911.82
+04)  231206 - Termodinamica 1                                        2.75             911.82
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 14.50             TOTAL MONTO PAGADO: 4807.76
+====================================================================================================
+ALUMNO: 20231938 - MARTEL ASMAD BRUNO ROBERTO                 ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  109263 - Algoritmia                                             4.25            1409.17
+02)  109281 - Lenguaje De Programacion 1                             3.25            1077.60
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.50             TOTAL MONTO PAGADO: 2486.78
+====================================================================================================
+ALUMNO: 20216298 - MALDONADO RAMIREZ SILVANA                  ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231283 - Laboratorio De Introduccion Al Diseno De Maquinas      3.75            1243.39
+02)  481208 - Temas De Fisica General                                3.75            1243.39
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 7.50             TOTAL MONTO PAGADO: 2486.78
+====================================================================================================
+ALUMNO: 20239652 - INGA FLORES CESAR ADOLFO                   ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481218 - Fisica Moderna                                         5.25            1740.74
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 5.25             TOTAL MONTO PAGADO: 1740.74
+====================================================================================================
+ALUMNO: 20229272 - CRUZ FUENTES JOHANA YDALI                  ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  481227 - Particulas Elementales                                 4.00            1326.28
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 4.00             TOTAL MONTO PAGADO: 1326.28
+====================================================================================================
+ALUMNO: 20195979 - MEJIA DE LA HAZA FRANCISCO EDGAR           ESCALA: E       Valor Credito: 331.57
+----------------------------------------------------------------------------------------------------
+      CURSO MATRICULADO                                            CREDITOS        MONTO PAGADO
+01)  231209 - Mecanica De Fluidos                                    3.75            1243.39
+----------------------------------------------------------------------------------------------------
+TOTAL CREDITOS: 3.75             TOTAL MONTO PAGADO: 1243.39
+====================================================================================================
+RESUMEN:
+CANTIDAD TOTAL  DE ALUMNOS: 75             MONTO TOTAL PAGADO: 218463.40
