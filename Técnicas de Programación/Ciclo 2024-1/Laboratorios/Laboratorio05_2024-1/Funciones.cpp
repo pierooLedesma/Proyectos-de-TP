@@ -287,6 +287,9 @@ void eliminar_datos(int *arr_codigo_medico,double *arr_tarifa_medico,int &cant_m
         if(arr_ingresos_por_medico[3*indice + 2] < promedio_ingresos_totales){
             eliminar_datos_de_un_arreglo(indice,arr_codigo_medico,arr_tarifa_medico,cant_medicos,
                                          arr_ingresos_por_medico,arr_totales_clientes);
+            // No incrementar el índice para revisar el nuevo que quedó en esta posición.
+        } else {
+            indice++; // Solo si no se eliminó algún dato.
         }
     }
 }
