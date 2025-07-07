@@ -283,7 +283,8 @@ void eliminar_datos(int *arr_codigo_medico,double *arr_tarifa_medico,int &cant_m
     promedio_ingresos_totales = ingresos_totales / cant_medicos;
     
     // Eliminar a los médicos que tienen el menor dato
-    for(int indice = 0; indice < cant_medicos; indice ++){
+    int indice = 0;
+    while(indice < cant_medicos){
         if(arr_ingresos_por_medico[3*indice + 2] < promedio_ingresos_totales){
             eliminar_datos_de_un_arreglo(indice,arr_codigo_medico,arr_tarifa_medico,cant_medicos,
                                          arr_ingresos_por_medico,arr_totales_clientes);
