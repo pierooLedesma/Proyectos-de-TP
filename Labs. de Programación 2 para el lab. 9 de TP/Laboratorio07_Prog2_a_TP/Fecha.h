@@ -1,30 +1,37 @@
-Algoritmo DescuentoCompra
+Inicio
+    C0 ← 0; C1 ← 0; C2 ← 0
+    S0 ← 0; S1 ← 0; S2 ← 0
+    SPar ← 0; SImpar ← 0
 
-    Escribir "Ingrese el monto de compra:"
-    Leer monto
+    Para i ← 1 Hasta 10 Hacer
+        Leer NUM
 
-    Si monto >= 1000 Entonces
-        porcentaje <- 20
-    SiNo
-        Si monto >= 500 Entonces
-            porcentaje <- 15
+        Si NUM = 0 Entonces
+            C0 ← C0 + 1
+            S0 ← S0 + NUM
         SiNo
-            Si monto >= 250 Entonces
-                porcentaje <- 10
+            Si NUM = 1 Entonces
+                C1 ← C1 + 1
+                S1 ← S1 + NUM
             SiNo
-                porcentaje <- 0
+                Si NUM = 2 Entonces
+                    C2 ← C2 + 1
+                    S2 ← S2 + NUM
+                FinSi
             FinSi
         FinSi
-    FinSi
 
-    descuento <- monto * porcentaje / 100
-    total <- monto - descuento
+        Si i MOD 2 = 0 Entonces
+            SPar ← SPar + NUM
+        SiNo
+            SImpar ← SImpar + NUM
+        FinSi
+    FinPara
 
-    Escribir "Porcentaje de descuento: ", porcentaje, "%"
-    Escribir "Valor del descuento: S/ ", descuento
-    Escribir "Total a pagar: S/ ", total
-
-FinAlgoritmo
+    Escribir C0, C1, C2
+    Escribir S0, S1, S2
+    Escribir SPar, SImpar
+Fin
 
 
 
